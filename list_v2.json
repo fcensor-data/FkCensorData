@@ -1,0 +1,4271 @@
+{
+  "sources": [
+    {
+      "albums": {
+        "2000000001": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000001.png",
+          "releaseDate": "2012-02-24T00:00:00+03:00",
+          "title": "Смирись и расслабься!",
+          "volumes": [
+            [
+              {
+                "id": "600000001000001"
+              },
+              {
+                "id": "600000001000002"
+              },
+              {
+                "id": "600000001000003"
+              },
+              {
+                "id": "600000001000004"
+              },
+              {
+                "id": "600000001000005"
+              },
+              {
+                "id": "600000001000006"
+              },
+              {
+                "id": "600000001000007"
+              },
+              {
+                "id": "600000001000008"
+              },
+              {
+                "id": "600000001000009"
+              },
+              {
+                "id": "600000001000010"
+              },
+              {
+                "id": "600000001000011"
+              },
+              {
+                "id": "600000001000012"
+              },
+              {
+                "id": "600000001000013"
+              },
+              {
+                "id": "600000001000014"
+              },
+              {
+                "id": "600000001000015"
+              },
+              {
+                "id": "600000001000016"
+              },
+              {
+                "id": "600000001000017"
+              }
+            ]
+          ]
+        },
+        "2000000002": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000002.png",
+          "releaseDate": "2013-10-20T00:00:00+03:00",
+          "title": "Часть чего-то большего",
+          "volumes": [
+            [
+              {
+                "id": "600000001000018"
+              },
+              {
+                "id": "600000001000019"
+              },
+              {
+                "id": "600000001000020"
+              },
+              {
+                "id": "600000001000021"
+              },
+              {
+                "id": "600000001000022"
+              },
+              {
+                "id": "600000001000023"
+              },
+              {
+                "id": "600000001000024"
+              },
+              {
+                "id": "600000001000025"
+              },
+              {
+                "id": "600000001000026"
+              },
+              {
+                "id": "600000001000027"
+              },
+              {
+                "id": "600000001000028"
+              },
+              {
+                "id": "600000001000029"
+              },
+              {
+                "id": "600000001000030"
+              },
+              {
+                "id": "600000001000031"
+              }
+            ]
+          ]
+        },
+        "2000000003": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000003.png",
+          "releaseDate": "2016-10-14T00:00:00+03:00",
+          "title": "Развлечение",
+          "volumes": [
+            [
+              {
+                "id": "600000001000032"
+              },
+              {
+                "id": "600000001000033"
+              },
+              {
+                "id": "600000001000034"
+              },
+              {
+                "id": "600000001000035"
+              },
+              {
+                "id": "600000001000036"
+              },
+              {
+                "id": "600000001000037"
+              },
+              {
+                "id": "600000001000038"
+              },
+              {
+                "id": "600000001000039"
+              }
+            ]
+          ]
+        },
+        "24720439": {
+          "artists": [
+            {
+              "id": 10946087,
+              "name": "CUPSIZE"
+            }
+          ],
+          "coverUri": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.png",
+          "releaseDate": "2023-01-27T00:00:00+03:00",
+          "title": "Еби меня, малышка",
+          "volumes": [
+            [
+              {
+                "id": "110945082"
+              },
+              {
+                "id": "110945083"
+              },
+              {
+                "id": "110945084"
+              },
+              {
+                "id": "110945085"
+              },
+              {
+                "id": "600000001000045"
+              },
+              {
+                "id": "110945087"
+              },
+              {
+                "id": "110945088"
+              },
+              {
+                "id": "110945089"
+              },
+              {
+                "id": "110945090"
+              },
+              {
+                "id": "110945091"
+              },
+              {
+                "id": "110945092"
+              },
+              {
+                "id": "110945093"
+              }
+            ]
+          ]
+        },
+        "28396377": {
+          "coverUri": "avatars.yandex.net/get-music-content/16406615/5c99d5c5.a.28396377-2/%%",
+          "volumes": [
+            [
+              {
+                "id": 138778164
+              },
+              {
+                "id": 119689460
+              },
+              {
+                "id": 119689461
+              },
+              {
+                "id": 119689463
+              },
+              {
+                "id": 119689464
+              },
+              {
+                "id": 119689465
+              },
+              {
+                "id": 119689467
+              },
+              {
+                "id": 119689469
+              }
+            ]
+          ]
+        },
+        "31515159": {
+          "__fckCensor": {
+            "replaceArtistsInAlbumVolumes": true
+          },
+          "artists": [
+            {
+              "id": 7081546,
+              "name": "zavet"
+            }
+          ],
+          "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2Fbb6a2c5105e339b7e26d7c7a47205e91.1000x1000x1.png",
+          "releaseDate": "2019-01-30T00:00:00+03:00",
+          "title": "Атана"
+        },
+        "41831097": {
+          "__fckCensor": {
+            "insertionIndex": -2,
+            "replaceArtistsInAlbumVolumes": true
+          },
+          "artists": [
+            {
+              "id": 7081546,
+              "name": "zavet"
+            }
+          ],
+          "coverUri": "avatars.yandex.net/get-music-content/142001/f498c5cb.a.7399294-1/%%",
+          "releaseDate": "2019-07-10T00:00:00+03:00",
+          "title": "Kaidan",
+          "volumes": [
+            [
+              {
+                "id": "150838971"
+              },
+              {
+                "id": "150838968"
+              },
+              {
+                "id": "150838964"
+              },
+              {
+                "id": "150838974"
+              },
+              {
+                "id": "150838965"
+              },
+              {
+                "id": "150838973"
+              },
+              {
+                "id": "150838961"
+              },
+              {
+                "id": "150838969"
+              },
+              {
+                "id": "150838967"
+              },
+              {
+                "id": "150838976"
+              },
+              {
+                "id": "150838970"
+              },
+              {
+                "id": "150838975"
+              },
+              {
+                "id": "150838972"
+              },
+              {
+                "id": "150838966"
+              },
+              {
+                "id": "150838963"
+              }
+            ]
+          ]
+        },
+        "41940329": {
+          "__fckCensor": {
+            "insertionIndex": -5,
+            "replaceArtistsInAlbumVolumes": true
+          },
+          "artists": [
+            {
+              "id": 7081546,
+              "name": "zavet"
+            }
+          ],
+          "coverUri": "avatars.yandex.net/get-music-content/2358262/e39db8cc.a.10241804-1/%%",
+          "releaseDate": "2020-04-10T00:00:00+03:00",
+          "title": "Жилы",
+          "volumes": [
+            [
+              {
+                "id": "151055408"
+              },
+              {
+                "id": "151055429"
+              },
+              {
+                "id": "151055432"
+              },
+              {
+                "id": "151055388"
+              },
+              {
+                "id": "151055396"
+              },
+              {
+                "id": "151055437"
+              },
+              {
+                "id": "151055403"
+              },
+              {
+                "id": "151055445"
+              },
+              {
+                "id": "151055414"
+              },
+              {
+                "id": "151055422"
+              },
+              {
+                "id": "151055392"
+              },
+              {
+                "id": "151055453"
+              }
+            ],
+            [
+              {
+                "id": "151055418"
+              },
+              {
+                "id": "151055451"
+              },
+              {
+                "id": "151055411"
+              },
+              {
+                "id": "151055441"
+              },
+              {
+                "id": "151055383"
+              },
+              {
+                "id": "151055448"
+              },
+              {
+                "id": "151055442"
+              },
+              {
+                "id": "151055457"
+              },
+              {
+                "id": "151055436"
+              },
+              {
+                "id": "151055386"
+              },
+              {
+                "id": "151055400"
+              },
+              {
+                "id": "151055424"
+              }
+            ],
+            [
+              {
+                "id": "151055438"
+              }
+            ]
+          ]
+        },
+        "4613862": {
+          "volumes": [
+            [
+              {
+                "id": "38479098"
+              },
+              {
+                "id": "36623728"
+              },
+              {
+                "id": "36623729"
+              },
+              {
+                "id": "36623730"
+              },
+              {
+                "id": "36623732"
+              },
+              {
+                "id": "36623733"
+              },
+              {
+                "id": "36623734"
+              },
+              {
+                "id": "36623735"
+              },
+              {
+                "id": "36623736"
+              },
+              {
+                "id": "36623737"
+              },
+              {
+                "id": "38479099"
+              },
+              {
+                "id": "36623739"
+              },
+              {
+                "id": "36623740"
+              },
+              {
+                "id": "36623741"
+              },
+              {
+                "id": "36623742"
+              },
+              {
+                "id": "600000001000000"
+              }
+            ]
+          ]
+        },
+        "6958281": {
+          "coverUri": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/6958281.jpg",
+          "volumes": [
+            [
+              {
+                "id": "50400502"
+              },
+              {
+                "id": "50400503"
+              },
+              {
+                "id": "50400504"
+              },
+              {
+                "id": "50400505"
+              },
+              {
+                "id": "50400506"
+              }
+            ]
+          ]
+        }
+      },
+      "artistsInsertions": {
+        "10946087": {
+          "tracks": [
+            {
+              "index": -1,
+              "releaseId": "110945082"
+            },
+            {
+              "index": -1,
+              "releaseId": "110945083"
+            },
+            {
+              "index": -1,
+              "releaseId": "110945084"
+            },
+            {
+              "index": -1,
+              "releaseId": "110945085"
+            },
+            {
+              "index": -1,
+              "releaseId": "110945087"
+            },
+            {
+              "index": -1,
+              "releaseId": "110945088"
+            },
+            {
+              "index": -1,
+              "releaseId": "110945090"
+            },
+            {
+              "index": -1,
+              "releaseId": "110945091"
+            },
+            {
+              "index": -1,
+              "releaseId": "110945092"
+            },
+            {
+              "index": -1,
+              "releaseId": "110945093"
+            }
+          ]
+        },
+        "7081546": {
+          "tracks": [
+            {
+              "index": 0,
+              "releaseId": "63104735"
+            }
+          ]
+        }
+      },
+      "tracks": {
+        "110374527": {
+          "durationMs": 128339
+        },
+        "110945082": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/110945082.lrc?v=1794435982"
+          },
+          "artists": [
+            {
+              "id": 10946087,
+              "name": "CUPSIZE"
+            }
+          ],
+          "title": "ДАВАЙ ТРАХАТЬСЯ В МАШИНЕ"
+        },
+        "110945083": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/110945083.lrc?v=1794435982"
+          },
+          "artists": [
+            {
+              "id": 10946087,
+              "name": "CUPSIZE"
+            }
+          ],
+          "title": "люби меня, алина"
+        },
+        "110945084": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/110945084.lrc?v=1794435982"
+          },
+          "artists": [
+            {
+              "id": 10946087,
+              "name": "CUPSIZE"
+            }
+          ],
+          "title": "ГИДРОПОН"
+        },
+        "110945085": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/110945085.lrc?v=1794435982"
+          },
+          "artists": [
+            {
+              "id": 10946087,
+              "name": "CUPSIZE"
+            },
+            {
+              "id": 8176408,
+              "name": "17 SEVENTEEN"
+            }
+          ],
+          "title": "Папик"
+        },
+        "110945087": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/110945087.lrc?v=1794435982"
+          },
+          "artists": [
+            {
+              "id": 10946087,
+              "name": "CUPSIZE"
+            }
+          ],
+          "title": "вайфуу"
+        },
+        "110945088": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/110945088.lrc?v=1794435982"
+          },
+          "artists": [
+            {
+              "id": 10946087,
+              "name": "CUPSIZE"
+            }
+          ],
+          "title": "я схавал опиат"
+        },
+        "110945089": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/110945089.lrc?v=1794435982"
+          },
+          "artists": [
+            {
+              "id": 10946087,
+              "name": "CUPSIZE"
+            }
+          ],
+          "title": "Вирус"
+        },
+        "110945090": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/110945090.lrc?v=1794435982"
+          },
+          "artists": [
+            {
+              "id": 10946087,
+              "name": "CUPSIZE"
+            }
+          ],
+          "title": "МОЯ МАМА ПЬЁТ"
+        },
+        "110945091": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/110945091.lrc?v=1794435982"
+          },
+          "artists": [
+            {
+              "id": 10946087,
+              "name": "CUPSIZE"
+            }
+          ],
+          "title": "Ты любишь травку"
+        },
+        "110945092": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/110945092.lrc?v=1794435982"
+          },
+          "artists": [
+            {
+              "id": 10946087,
+              "name": "CUPSIZE"
+            }
+          ],
+          "title": "Забуду"
+        },
+        "110945093": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/110945093.lrc?v=1794435982"
+          },
+          "artists": [
+            {
+              "id": 10946087,
+              "name": "CUPSIZE"
+            }
+          ],
+          "title": "мне похуй"
+        },
+        "123382745": {
+          "title": "В этой траве"
+        },
+        "129803817": {
+          "durationMs": 172329
+        },
+        "132217704": {
+          "__fckCensor": {},
+          "artists": [
+            {
+              "entity": "artist",
+              "id": "4622996",
+              "name": "Овсянкин"
+            }
+          ],
+          "title": "Red lipstick + 2 lines"
+        },
+        "136272297": {
+          "__fckCensor": {
+            "insertionIndex": 50
+          },
+          "artists": [
+            {
+              "id": 13739916,
+              "name": "9mice"
+            }
+          ]
+        },
+        "136404135": {
+          "__fckCensor": {
+            "insertionIndex": 15
+          },
+          "artists": [
+            {
+              "id": 4952161,
+              "name": "Пошлая Молли"
+            }
+          ],
+          "title": "Школа не нужна"
+        },
+        "136797648": {
+          "durationMs": 143516
+        },
+        "137300017": {
+          "title": "так похуй"
+        },
+        "137472446": {
+          "title": "таблетки"
+        },
+        "138629224": {
+          "durationMs": 134034
+        },
+        "138778164": {
+          "title": "Отчим"
+        },
+        "139871647": {
+          "artists": [
+            {
+              "id": 10946087,
+              "name": "CUPSIZE"
+            },
+            {
+              "id": 19107638,
+              "name": "yasssenev"
+            }
+          ],
+          "title": "Я ещё жив"
+        },
+        "142464338": {
+          "artists": [
+            {
+              "id": 10946087,
+              "name": "CUPSIZE"
+            }
+          ],
+          "coverUri": "avatars.yandex.net/get-music-content/15317937/6634021c.a.24720439-2/%%",
+          "title": "лиза, настя"
+        },
+        "142977153": {
+          "__fckCensor": {
+            "insertionIndex": 15
+          },
+          "artists": [
+            {
+              "id": 23300354,
+              "name": "тёмный принц"
+            }
+          ],
+          "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F9f07df32a982c2ff295c12d6db8497ce.1000x1000x1.png",
+          "title": "natura"
+        },
+        "144713884": {
+          "__fckCensor": {
+            "insertionIndex": 50
+          },
+          "artists": [
+            {
+              "id": 13739916,
+              "name": "9mice"
+            }
+          ]
+        },
+        "145054524": {
+          "__fckCensor": {
+            "insertionIndex": 2
+          },
+          "artists": [
+            {
+              "id": 4952161,
+              "name": "Пошлая Молли"
+            }
+          ],
+          "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2Fe5ac445f79bbf3af7a3582d2694c6de6.1000x1000x1.png"
+        },
+        "149870633": {
+          "durationMs": 190566
+        },
+        "150160800": {
+          "__fckCensor": {
+            "insertionIndex": 50
+          },
+          "artists": [
+            {
+              "id": 16509384,
+              "name": "Kai Angel"
+            },
+            {
+              "id": 13739916,
+              "name": "9mice"
+            }
+          ],
+          "coverUri": "t2.genius.com/unsafe/344x344/https%3A%2F%2Fimages.genius.com%2F62b8e081b3224ea2b70d6937a20d1c28.1000x1000x1.png"
+        },
+        "150598645": {
+          "title": "Я люблю лин"
+        },
+        "150770314": {
+          "__fckCensor": {
+            "insertionIndex": 30
+          },
+          "artists": [
+            {
+              "id": 23300354,
+              "name": "тёмный принц"
+            },
+            {
+              "id": 23812842,
+              "name": "казу"
+            }
+          ],
+          "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F111c82dd22153bf1a175d6ecb857ef1c.1000x1000x1.png",
+          "title": "покой"
+        },
+        "150838961": {
+          "title": "1"
+        },
+        "150838963": {
+          "title": "3 минуты после"
+        },
+        "150838965": {
+          "title": "Бал"
+        },
+        "150838966": {
+          "title": "Бедная лошадь"
+        },
+        "150838967": {
+          "title": "Изящно"
+        },
+        "150838969": {
+          "title": "Коренные зубы"
+        },
+        "150838970": {
+          "title": "Не смотри в окно"
+        },
+        "150838971": {
+          "title": "Озон"
+        },
+        "150838976": {
+          "title": "Ямка"
+        },
+        "151055383": {
+          "title": "Bandit"
+        },
+        "151055386": {
+          "title": "В баре трибунал"
+        },
+        "151055388": {
+          "title": "Вечный кайф"
+        },
+        "151055418": {
+          "title": "Красная чешуя"
+        },
+        "151055422": {
+          "title": "Брат, криминал"
+        },
+        "151055432": {
+          "title": "НКВД"
+        },
+        "151055438": {
+          "title": "Return Me to the Pale Green Walls"
+        },
+        "151055441": {
+          "title": "Blue Eyes"
+        },
+        "151055445": {
+          "title": "Спокойно"
+        },
+        "151855585": {
+          "title": "ты уебалась головой"
+        },
+        "151855603": {
+          "title": "мы делили апельсин"
+        },
+        "152396542": {
+          "__fckCensor": {
+            "insertionIndex": 23
+          },
+          "artists": [
+            {
+              "id": 4952161,
+              "name": "Пошлая Молли"
+            }
+          ],
+          "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F5f6c2ea78da539e53539263e37ceeac4.417x412x1.jpg",
+          "title": "Lin Ansty"
+        },
+        "155025088": {
+          "__fckCensor": {
+            "insertionIndex": 0
+          },
+          "artists": [
+            {
+              "id": 5801720,
+              "name": "Clonnex"
+            }
+          ]
+        },
+        "155095252": {
+          "__fckCensor": {
+            "insertionIndex": 15
+          },
+          "artists": [
+            {
+              "id": 10880992,
+              "name": "Серега Пират"
+            }
+          ]
+        },
+        "22436": {
+          "title": "Smack That"
+        },
+        "27737513": {
+          "__fckCensor": {},
+          "artists": [
+            {
+              "entity": "artist",
+              "id": "3315646",
+              "name": "Порнофильмы"
+            }
+          ],
+          "title": "Роди мне 1000 детей!"
+        },
+        "30212997": {
+          "title": "Трэп хата"
+        },
+        "36045842": {
+          "__fckCensor": {},
+          "artists": [
+            {
+              "entity": "artist",
+              "id": "4622996",
+              "name": "Овсянкин"
+            }
+          ],
+          "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F657524f9697d1c1da8aacc1bafe756b4.1000x1000x1.png",
+          "title": "Отсиди"
+        },
+        "36360202": {
+          "durationMs": 186577
+        },
+        "36620592": {
+          "__fckCensor": {},
+          "artists": [
+            {
+              "entity": "artist",
+              "id": "5073140",
+              "name": "Ежемесячные"
+            }
+          ],
+          "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F7b64e86796e688c310944f6c7cdc66cb.1000x1000x1.png",
+          "title": "Пуля для наркомана"
+        },
+        "37231301": {
+          "__fckCensor": {},
+          "artists": [
+            {
+              "entity": "artist",
+              "id": "4622996",
+              "name": "Овсянкин"
+            }
+          ],
+          "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F144f17bdd155283fb9a53f99900d6360.1000x1000x1.png",
+          "title": "Карфентанил"
+        },
+        "37231311": {
+          "__fckCensor": {},
+          "artists": [
+            {
+              "entity": "artist",
+              "id": "4622996",
+              "name": "Овсянкин"
+            }
+          ],
+          "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F25983f6d40ce12c14761c03208ec176e.1000x1000x1.png",
+          "title": "Тебе стыдно"
+        },
+        "39580298": {
+          "__fckCensor": {},
+          "artists": [
+            {
+              "entity": "artist",
+              "id": "4622996",
+              "name": "Овсянкин"
+            }
+          ],
+          "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F08309c3d1ff718d13d04668c25217530.1000x1000x1.jpg",
+          "title": "Поговорим дома"
+        },
+        "39580348": {
+          "__fckCensor": {},
+          "artists": [
+            {
+              "entity": "artist",
+              "id": "4622996",
+              "name": "Овсянкин"
+            },
+            {
+              "entity": "artist",
+              "id": "5419161",
+              "name": "вертушка газманова"
+            }
+          ],
+          "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F070a1a7e9d02eca091a6fbd68134fc72.1000x1000x1.png",
+          "title": "Тебя прёт габба"
+        },
+        "44803091": {
+          "__fckCensor": {},
+          "artists": [
+            {
+              "entity": "artist",
+              "id": "4622996",
+              "name": "Овсянкин"
+            }
+          ],
+          "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2Fe9c0c554e35ce5341710e42794984e6c.1000x1000x1.jpg",
+          "title": "Песня росгвардейца"
+        },
+        "50400502": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/50400502.lrc?v=1794434588"
+          }
+        },
+        "50400503": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/50400503.lrc?v=1794434588"
+          }
+        },
+        "50400504": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/50400504.lrc?v=1794434588"
+          }
+        },
+        "50400505": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/50400505.lrc?v=1794434588"
+          }
+        },
+        "50400506": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/50400506.lrc?v=1794434588"
+          }
+        },
+        "58746554": {
+          "__fckCensor": {},
+          "artists": [
+            {
+              "entity": "artist",
+              "id": "4622988",
+              "name": "Слава КПСС"
+            }
+          ],
+          "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F187fa0c07091a8eb9b6a3fd8e33f28c1.1000x1000x1.png",
+          "title": "АНАНАСОВАЯ GIRL"
+        },
+        "59397779": {
+          "__fckCensor": {},
+          "artists": [
+            {
+              "entity": "artist",
+              "id": "4622996",
+              "name": "Овсянкин"
+            },
+            {
+              "entity": "artist",
+              "id": "8305306",
+              "name": "Серёжа Лес"
+            },
+            {
+              "entity": "artist",
+              "id": "8305307",
+              "name": "Lelya Petit"
+            }
+          ],
+          "title": "Прыжок в прошлое"
+        },
+        "600000001000000": {
+          "artists": [
+            {
+              "id": 4865954,
+              "name": "GONE.Fludd"
+            },
+            {
+              "id": 5278742,
+              "name": "M00NCHILD"
+            }
+          ],
+          "title": "Уле=Еле"
+        },
+        "600000001000001": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000001.lrc?v=1794434304"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Отель Кооператор"
+        },
+        "600000001000002": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000002.lrc?v=1794434304"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Фанк"
+        },
+        "600000001000003": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000003.lrc?v=1794434304"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Песня для девочек"
+        },
+        "600000001000004": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000004.lrc?v=1794434304"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Рустем"
+        },
+        "600000001000005": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000005.lrc?v=1794434304"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "45 лет"
+        },
+        "600000001000006": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000006.lrc?v=1794434304"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Всё решено"
+        },
+        "600000001000007": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000007.lrc?v=1794434304"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Кайен"
+        },
+        "600000001000008": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000008.lrc?v=1794434304"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Он постоянно"
+        },
+        "600000001000009": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000009.lrc?v=1794434304"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Лишь однажды"
+        },
+        "600000001000010": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000010.lrc?v=1794434304"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Наше лето"
+        },
+        "600000001000011": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000011.lrc?v=1794434304"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Русский рок"
+        },
+        "600000001000012": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000012.lrc?v=1794434304"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Серёжа"
+        },
+        "600000001000013": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000013.lrc?v=1794434304"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Первомай"
+        },
+        "600000001000014": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000014.lrc?v=1794434304"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Я бью женщин и детей"
+        },
+        "600000001000015": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Gay Porn"
+        },
+        "600000001000016": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000016.lrc?v=1794434304"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Так гріє"
+        },
+        "600000001000017": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000017.lrc?v=1794434304"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Дешёвые драмы"
+        },
+        "600000001000018": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000018.lrc?v=1794434373"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Самый лучший друг"
+        },
+        "600000001000019": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000019.lrc?v=1794434373"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Офисный стиляга"
+        },
+        "600000001000020": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000020.lrc?v=1794434373"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Все мои друзья"
+        },
+        "600000001000021": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000021.lrc?v=1794434373"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Знаешь, Таня"
+        },
+        "600000001000022": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000022.lrc?v=1794434373"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Космос нас ждёт"
+        },
+        "600000001000023": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000023.lrc?v=1794434373"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Кладбище самолетов"
+        },
+        "600000001000024": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000024.lrc?v=1794434373"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Ты не такая"
+        },
+        "600000001000025": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000025.lrc?v=1794434373"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Танцы"
+        },
+        "600000001000026": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000026.lrc?v=1794434373"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Ебашь, Альбина!"
+        },
+        "600000001000027": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000027.lrc?v=1794434373"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Преждевременное семяизвержение"
+        },
+        "600000001000028": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000028.lrc?v=1794434373"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Сега-винтовар"
+        },
+        "600000001000029": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000029.lrc?v=1794434373"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Я стараюсь быть лучше"
+        },
+        "600000001000030": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000030.lrc?v=1794434373"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Взрослые травмы"
+        },
+        "600000001000031": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000031.lrc?v=1794434373"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Улица Сталеваров"
+        },
+        "600000001000032": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000032.lrc?v=1794434440"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Ускользает"
+        },
+        "600000001000033": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000033.lrc?v=1794434440"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "О брат"
+        },
+        "600000001000034": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000034.lrc?v=1794434440"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "92"
+        },
+        "600000001000035": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000035.lrc?v=1794434440"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Решится само собой"
+        },
+        "600000001000036": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000036.lrc?v=1794434440"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Делать это трезвым"
+        },
+        "600000001000037": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000037.lrc?v=1794434440"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Тени"
+        },
+        "600000001000038": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000038.lrc?v=1794434440"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Бесполезно"
+        },
+        "600000001000039": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000039.lrc?v=1794434440"
+          },
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "title": "Подворотня - мой дом"
+        },
+        "600000001000045": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000045.lrc?v=1794434510"
+          },
+          "artists": [
+            {
+              "id": 10946087,
+              "name": "CUPSIZE"
+            }
+          ],
+          "title": "лиза, настя"
+        },
+        "63104735": {
+          "coverUri": "avatars.yandex.net/get-music-content/2358262/6e2a2403.a.10009371-1/%%"
+        },
+        "70748121": {
+          "durationMs": 91271
+        },
+        "71650516": {
+          "__fckCensor": {},
+          "artists": [
+            {
+              "entity": "artist",
+              "id": "4622996",
+              "name": "Овсянкин"
+            }
+          ],
+          "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F7d3202b085c8ec2dae42e4c02e24925a.1000x1000x1.png",
+          "title": "От нуля до нуля"
+        },
+        "91340238": {
+          "coverUri": "avatars.yandex.net/get-music-content/4382102/bb010436.a.18170107-1/%%"
+        },
+        "93401053": {
+          "title": "Я ебал в рот"
+        }
+      },
+      "tracksStorages": [
+        {
+          "trackIds": [
+            {
+              "durationMs": 225492,
+              "id": 25168291
+            },
+            {
+              "durationMs": 246465,
+              "id": 36623729
+            },
+            {
+              "durationMs": 142054,
+              "id": 36623730
+            },
+            {
+              "durationMs": 122926,
+              "id": 36623732
+            },
+            {
+              "durationMs": 214883,
+              "id": 38479099
+            },
+            {
+              "durationMs": 184869,
+              "id": 67570047
+            },
+            {
+              "durationMs": 161306,
+              "id": 71981695
+            },
+            {
+              "durationMs": 215118,
+              "id": 106476809
+            },
+            {
+              "durationMs": 125127,
+              "id": 107242497
+            },
+            {
+              "durationMs": 122906,
+              "id": 110107898
+            },
+            {
+              "durationMs": 130038,
+              "id": 110261325
+            },
+            {
+              "durationMs": 149238,
+              "id": 110945089
+            },
+            {
+              "durationMs": 165982,
+              "id": 113363679
+            },
+            {
+              "durationMs": 131739,
+              "id": 120618314
+            },
+            {
+              "durationMs": 135790,
+              "id": 138590617
+            },
+            {
+              "durationMs": 123768,
+              "id": 600000001000000
+            },
+            {
+              "durationMs": 238480,
+              "id": 600000001000001
+            },
+            {
+              "durationMs": 196720,
+              "id": 600000001000002
+            },
+            {
+              "durationMs": 259573,
+              "id": 600000001000003
+            },
+            {
+              "durationMs": 216160,
+              "id": 600000001000004
+            },
+            {
+              "durationMs": 145093,
+              "id": 600000001000005
+            },
+            {
+              "durationMs": 191413,
+              "id": 600000001000006
+            },
+            {
+              "durationMs": 186627,
+              "id": 600000001000007
+            },
+            {
+              "durationMs": 246573,
+              "id": 600000001000008
+            },
+            {
+              "durationMs": 175773,
+              "id": 600000001000009
+            },
+            {
+              "durationMs": 209667,
+              "id": 600000001000010
+            },
+            {
+              "durationMs": 195040,
+              "id": 600000001000011
+            },
+            {
+              "durationMs": 234027,
+              "id": 600000001000012
+            },
+            {
+              "durationMs": 219987,
+              "id": 600000001000013
+            },
+            {
+              "durationMs": 164933,
+              "id": 600000001000014
+            },
+            {
+              "durationMs": 322853,
+              "id": 600000001000015
+            },
+            {
+              "durationMs": 282413,
+              "id": 600000001000016
+            },
+            {
+              "durationMs": 230253,
+              "id": 600000001000017
+            },
+            {
+              "durationMs": 167347,
+              "id": 600000001000018
+            },
+            {
+              "durationMs": 135107,
+              "id": 600000001000019
+            },
+            {
+              "durationMs": 162040,
+              "id": 600000001000020
+            },
+            {
+              "durationMs": 275707,
+              "id": 600000001000021
+            },
+            {
+              "durationMs": 204960,
+              "id": 600000001000022
+            },
+            {
+              "durationMs": 354187,
+              "id": 600000001000023
+            },
+            {
+              "durationMs": 239733,
+              "id": 600000001000024
+            },
+            {
+              "durationMs": 180707,
+              "id": 600000001000025
+            },
+            {
+              "durationMs": 168440,
+              "id": 600000001000026
+            },
+            {
+              "durationMs": 291467,
+              "id": 600000001000027
+            },
+            {
+              "durationMs": 154040,
+              "id": 600000001000028
+            },
+            {
+              "durationMs": 328800,
+              "id": 600000001000029
+            },
+            {
+              "durationMs": 170947,
+              "id": 600000001000030
+            },
+            {
+              "durationMs": 258987,
+              "id": 600000001000031
+            },
+            {
+              "durationMs": 305920,
+              "id": 600000001000032
+            },
+            {
+              "durationMs": 294090,
+              "id": 600000001000033
+            },
+            {
+              "durationMs": 229870,
+              "id": 600000001000034
+            },
+            {
+              "durationMs": 252210,
+              "id": 600000001000035
+            },
+            {
+              "durationMs": 193000,
+              "id": 600000001000036
+            },
+            {
+              "durationMs": 344060,
+              "id": 600000001000037
+            },
+            {
+              "durationMs": 424380,
+              "id": 600000001000038
+            },
+            {
+              "durationMs": 201533,
+              "id": 600000001000039
+            },
+            {
+              "durationMs": 115722,
+              "id": 110945082
+            },
+            {
+              "durationMs": 97071,
+              "id": 110945083
+            },
+            {
+              "durationMs": 144744,
+              "id": 110945084
+            },
+            {
+              "durationMs": 119014,
+              "id": 110945085
+            },
+            {
+              "durationMs": 107677,
+              "id": 600000001000045
+            },
+            {
+              "durationMs": 130664,
+              "id": 110945087
+            },
+            {
+              "durationMs": 138136,
+              "id": 110945088
+            },
+            {
+              "durationMs": 129202,
+              "id": 110945090
+            },
+            {
+              "durationMs": 133538,
+              "id": 110945091
+            },
+            {
+              "durationMs": 183536,
+              "id": 110945092
+            },
+            {
+              "durationMs": 113084,
+              "id": 110945093
+            },
+            149360077,
+            155807913,
+            {
+              "durationMs": 145063,
+              "id": 120305632
+            },
+            63607797,
+            59357625,
+            139910364,
+            63607783,
+            25319594,
+            111402809,
+            88057589,
+            {
+              "durationMs": 131709,
+              "id": 123382745
+            },
+            63607809,
+            113240879,
+            63607788,
+            144622062,
+            133951915,
+            109996936,
+            {
+              "durationMs": 99971,
+              "id": 138778164
+            },
+            {
+              "durationMs": 100800,
+              "id": 115131527
+            },
+            93401053,
+            {
+              "durationMs": 159138,
+              "id": 50400505
+            },
+            137300017,
+            136901411,
+            135266727,
+            137300019,
+            114382002,
+            60441408,
+            {
+              "durationMs": 174971,
+              "id": 60441406
+            },
+            93012496,
+            117219738,
+            133901297,
+            146068411,
+            {
+              "durationMs": 144983,
+              "id": 117711801
+            },
+            131794594,
+            40498606,
+            {
+              "durationMs": 146211,
+              "id": 120305627
+            },
+            41502790,
+            {
+              "durationMs": 164340,
+              "id": 59633283
+            },
+            106618973,
+            106040459,
+            118112247,
+            73729746,
+            105355119,
+            83950837,
+            138207906,
+            97325479,
+            70975548,
+            61007010,
+            55103258,
+            74398470,
+            45439388,
+            {
+              "durationMs": 89838,
+              "id": 148825093
+            },
+            148716092,
+            69125202,
+            34468568,
+            116649698,
+            108800777,
+            148716093,
+            {
+              "durationMs": 99033,
+              "id": 125535652
+            },
+            {
+              "durationMs": 113998,
+              "id": 143062985
+            },
+            70230156,
+            119890662,
+            106278184,
+            110263529,
+            131393815,
+            110263525,
+            119923185,
+            142577333
+          ],
+          "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_01/refs/heads/main/tracks/%%"
+        },
+        {
+          "trackIds": [
+            137300022,
+            142577336,
+            {
+              "durationMs": 133358,
+              "id": 142577359
+            },
+            139910362,
+            137300018,
+            141077742,
+            141433322,
+            83405029,
+            115424578,
+            50697041,
+            144874732,
+            83405024,
+            104242336,
+            134223771,
+            62556355,
+            {
+              "durationMs": 132444,
+              "id": 143934032
+            },
+            73939469,
+            57020069,
+            105579529,
+            39949113,
+            133378523,
+            66501221,
+            110263534,
+            36142272,
+            84382255,
+            {
+              "durationMs": 156947,
+              "id": 75425467
+            },
+            109990536,
+            110263527,
+            110263532,
+            108809115,
+            106155608,
+            110263522,
+            110263523,
+            109990539,
+            118618029,
+            109990535,
+            109990537,
+            109990532,
+            109990527,
+            109990538,
+            109990526,
+            109990531,
+            103844888,
+            103844886,
+            103844890,
+            104427920,
+            103844891,
+            {
+              "durationMs": 135419,
+              "id": 118369886
+            },
+            {
+              "durationMs": 173401,
+              "id": 111298758
+            },
+            103844892,
+            67349423,
+            81549433,
+            {
+              "durationMs": 95611,
+              "id": 129653784
+            },
+            139979379,
+            133429871,
+            109070388,
+            111248482,
+            136598165,
+            {
+              "durationMs": 98247,
+              "id": 110132825
+            },
+            62567305,
+            65875047,
+            {
+              "durationMs": 99840,
+              "id": 105833872
+            },
+            {
+              "durationMs": 104594,
+              "id": 122988102
+            },
+            103624638,
+            {
+              "durationMs": 96052,
+              "id": 113964655
+            },
+            105006649,
+            144098514,
+            36327441,
+            143233927,
+            106941620,
+            125996700,
+            70743630,
+            {
+              "durationMs": 176771,
+              "id": 118456194
+            },
+            35758334,
+            131737642,
+            136101923,
+            136101915,
+            136101919,
+            130793649,
+            143286547,
+            119057925,
+            {
+              "durationMs": 150207,
+              "id": 123214891
+            },
+            132395442,
+            148716987,
+            37120836,
+            124666563,
+            146451124,
+            72063039,
+            {
+              "durationMs": 217469,
+              "id": 24442524
+            },
+            {
+              "durationMs": 236696,
+              "id": 24442537
+            },
+            148716967,
+            {
+              "durationMs": 131033,
+              "id": 38572746
+            },
+            61212406,
+            {
+              "durationMs": 181502,
+              "id": 42486164
+            },
+            {
+              "durationMs": 202189,
+              "id": 30212997
+            },
+            {
+              "durationMs": 136049,
+              "id": 148421462
+            },
+            124666565,
+            {
+              "durationMs": 128604,
+              "id": 106475673
+            },
+            {
+              "durationMs": 230000,
+              "id": 63934931
+            },
+            112412053,
+            76711329,
+            {
+              "durationMs": 173717,
+              "id": 38439048
+            },
+            107857822,
+            59367471,
+            117929982,
+            74013830,
+            146521531,
+            {
+              "durationMs": 127246,
+              "id": 119296534
+            },
+            144530503,
+            {
+              "durationMs": 91771,
+              "id": 136315543
+            },
+            27898785,
+            112047071,
+            121793166,
+            127293321,
+            74017773,
+            {
+              "durationMs": 212741,
+              "id": 80408120
+            },
+            48591491,
+            36161925,
+            {
+              "durationMs": 104934,
+              "id": 126980903
+            },
+            94832019,
+            107970520,
+            80305534,
+            138472605,
+            54269757,
+            {
+              "durationMs": 159794,
+              "id": 43854379
+            },
+            {
+              "durationMs": 159794,
+              "id": 43854376
+            },
+            {
+              "durationMs": 252503,
+              "id": 43504909
+            },
+            {
+              "durationMs": 134667,
+              "id": 106475672
+            },
+            63607794,
+            36161917,
+            {
+              "durationMs": 189176,
+              "id": 106475674
+            },
+            66668867,
+            48591809,
+            {
+              "durationMs": 227869,
+              "id": 43707489
+            },
+            {
+              "durationMs": 178393,
+              "id": 138912048
+            },
+            107769753,
+            90841991,
+            {
+              "durationMs": 258093,
+              "id": 111454944
+            },
+            {
+              "durationMs": 97074,
+              "id": 137472446
+            },
+            {
+              "durationMs": 159794,
+              "id": 43854383
+            },
+            119890654,
+            123169165,
+            41900810,
+            119872141,
+            79932386,
+            120805927,
+            130011719,
+            111124377,
+            119890672,
+            {
+              "durationMs": 171732,
+              "id": 52572387
+            },
+            108050041,
+            69420850,
+            {
+              "durationMs": 160055,
+              "id": 67639975
+            },
+            50400504,
+            58978660,
+            58810179
+          ],
+          "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_02/refs/heads/main/tracks/%%"
+        },
+        {
+          "trackIds": [
+            50573122,
+            50400502,
+            121733051,
+            {
+              "durationMs": 138841,
+              "id": 43503864
+            },
+            {
+              "durationMs": 199135,
+              "id": 48592076
+            },
+            81936387,
+            91340238,
+            105579530,
+            115258952,
+            131788963,
+            106713245,
+            87117636,
+            106123283,
+            81936403,
+            38572740,
+            36063264,
+            {
+              "durationMs": 305296,
+              "id": 48591482
+            },
+            29851854,
+            117219737,
+            36893518,
+            140330884,
+            142577327,
+            29508050,
+            36063268,
+            149220758,
+            36562968,
+            115424575,
+            119280171,
+            148716938,
+            35476145,
+            132720741,
+            {
+              "durationMs": 169094,
+              "id": 117370317
+            },
+            76711327,
+            116649704,
+            142825481,
+            76711318,
+            132344550,
+            135256919,
+            38180454,
+            118111192,
+            {
+              "durationMs": 144744,
+              "id": 110313505
+            },
+            {
+              "durationMs": 91432,
+              "id": 131866155
+            },
+            113871254,
+            73939476,
+            98093044,
+            60441423,
+            {
+              "durationMs": 212353,
+              "id": 58212468
+            },
+            108485144,
+            109996934,
+            31192330,
+            126043434,
+            147603436,
+            38931996,
+            135681115,
+            {
+              "durationMs": 255138,
+              "id": 53582341
+            },
+            {
+              "durationMs": 135904,
+              "id": 59523137
+            },
+            51039981,
+            38563412,
+            108977147,
+            139229968,
+            127455122,
+            81936404,
+            116649702,
+            32988400,
+            116649700,
+            140330881,
+            38419047,
+            136904439,
+            116649709,
+            130919938,
+            143244429,
+            108127243,
+            130919974,
+            115308816,
+            43528291,
+            130919941,
+            138413377,
+            108284700,
+            132497372,
+            110023304,
+            {
+              "durationMs": 149058,
+              "id": 120305626
+            },
+            83836715,
+            104242342,
+            {
+              "durationMs": 235027,
+              "id": 48592086
+            },
+            {
+              "durationMs": 192996,
+              "id": 41468696
+            },
+            105382858,
+            {
+              "durationMs": 155118,
+              "id": 105382841
+            },
+            {
+              "durationMs": 162511,
+              "id": 105382847
+            },
+            {
+              "durationMs": 156477,
+              "id": 105382856
+            },
+            106018754,
+            80159693,
+            93556490,
+            119280163,
+            105382852,
+            104242332,
+            104242353,
+            105999154,
+            97933934,
+            137300020,
+            144098512,
+            119923201,
+            123874951,
+            134260209,
+            38149234,
+            139228490,
+            137803949,
+            148781606,
+            148778065,
+            137251857,
+            81772338,
+            68074242,
+            123286436,
+            131538268,
+            42840670,
+            131898079,
+            147212188,
+            107845498,
+            {
+              "durationMs": 152036,
+              "id": 122852454
+            },
+            100923878,
+            60968632,
+            139671870,
+            {
+              "durationMs": 103030,
+              "id": 121043176
+            },
+            130751236,
+            147212189,
+            145536333,
+            {
+              "durationMs": 143807,
+              "id": 54281103
+            },
+            {
+              "durationMs": 102273,
+              "id": 136260233
+            },
+            140701188,
+            {
+              "durationMs": 148846,
+              "id": 145536338
+            },
+            {
+              "durationMs": 119824,
+              "id": 142512577
+            },
+            70748116,
+            109647066,
+            {
+              "durationMs": 158224,
+              "id": 117383616
+            },
+            147212190,
+            141390024,
+            136021421,
+            {
+              "durationMs": 168046,
+              "id": 25738208
+            },
+            148716941,
+            {
+              "durationMs": 125571,
+              "id": 135463527
+            },
+            39151536,
+            131394968,
+            66668863,
+            {
+              "durationMs": 205117,
+              "id": 137950219
+            },
+            146183038,
+            139083707,
+            89680487,
+            148716901,
+            {
+              "durationMs": 196157,
+              "id": 62484718
+            },
+            {
+              "durationMs": 153861,
+              "id": 116172890
+            },
+            {
+              "durationMs": 153473,
+              "id": 81750768
+            },
+            93012495
+          ],
+          "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_03/refs/heads/main/tracks/%%"
+        },
+        {
+          "trackIds": [
+            {
+              "durationMs": 107131,
+              "id": 95699210
+            },
+            104182086,
+            {
+              "durationMs": 161442,
+              "id": 66801291
+            },
+            137709368,
+            125535661,
+            135680433,
+            35681868,
+            108523845,
+            84106658,
+            104735373,
+            125714579,
+            125535648,
+            36142276,
+            36161896,
+            110058012,
+            118663870,
+            148716091,
+            96941368,
+            28676494,
+            135256913,
+            135256916,
+            135256920,
+            135256909,
+            119469048,
+            110997060,
+            135256921,
+            119469046,
+            117165566,
+            {
+              "durationMs": 126540,
+              "id": 119469050
+            },
+            35758333,
+            147993029,
+            119469051,
+            131538266,
+            131538273,
+            131538269,
+            131538276,
+            131538271,
+            76262072,
+            76262126,
+            76262124,
+            76262104,
+            131538277,
+            64724076,
+            76262139,
+            104896793,
+            104896798,
+            104896797,
+            104896794,
+            104896796,
+            130642855,
+            104896795,
+            116486249,
+            115430106,
+            142795082,
+            148716122,
+            104666232,
+            110689246,
+            83371039,
+            104666233,
+            104397947,
+            104666237,
+            104666239,
+            104508866,
+            38931997,
+            140701197,
+            83215345,
+            119923207,
+            119923183,
+            96545843,
+            131794590,
+            131794588,
+            138687506,
+            108726305,
+            59933954,
+            108726303,
+            {
+              "durationMs": 158148,
+              "id": 108726304
+            },
+            108726307,
+            117219711,
+            108726306,
+            48592481,
+            83832124,
+            142439257,
+            41570482,
+            119296556,
+            125249908,
+            115902226,
+            62774310,
+            148716913,
+            {
+              "durationMs": 137172,
+              "id": 119296544
+            },
+            118841484,
+            103247542,
+            78745768,
+            121991178,
+            77009786,
+            114784200,
+            {
+              "durationMs": 171915,
+              "id": 99699705
+            },
+            99699703,
+            83782742,
+            99699706,
+            {
+              "durationMs": 127794,
+              "id": 114784204
+            },
+            80159694,
+            148716132,
+            107645946,
+            134188724,
+            148716119,
+            93556487,
+            113990671,
+            93556497,
+            36161916,
+            66102259,
+            141403817,
+            29851850,
+            35758337,
+            108127245,
+            85327084,
+            {
+              "durationMs": 208173,
+              "id": 117979417
+            },
+            88975675,
+            {
+              "durationMs": 194433,
+              "id": 75085736
+            },
+            132304817,
+            99923169,
+            {
+              "durationMs": 179046,
+              "id": 38943639
+            },
+            106416103,
+            30087866,
+            114102000,
+            {
+              "durationMs": 163526,
+              "id": 75541926
+            },
+            124711309,
+            111623625,
+            136395876,
+            140712542,
+            147212202,
+            42938213,
+            47684225,
+            36161915,
+            108805148,
+            147212206,
+            39917908,
+            147651926,
+            110023299,
+            138562795,
+            147212215,
+            147212200,
+            27317251,
+            {
+              "durationMs": 186910,
+              "id": 105336877
+            },
+            36142277,
+            126099536,
+            27317263,
+            138369290,
+            141111607,
+            {
+              "durationMs": 110602,
+              "id": 126749933
+            },
+            36161931,
+            148716094,
+            130919973,
+            115063213,
+            45239755,
+            129501469,
+            113140429,
+            40498602
+          ],
+          "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_04/refs/heads/main/tracks/%%"
+        },
+        {
+          "trackIds": [
+            119359241,
+            104242339,
+            108127248,
+            108127266,
+            36063275,
+            34972339,
+            145536345,
+            145536339,
+            145536335,
+            145536337,
+            145536342,
+            81936412,
+            77054879,
+            {
+              "durationMs": 156529,
+              "id": 145536334
+            },
+            106314854,
+            116649703,
+            119923197,
+            52765480,
+            138413376,
+            138413379,
+            132845882,
+            132845924,
+            90199334,
+            38931999,
+            138413380,
+            60051509,
+            117786990,
+            38932000,
+            117786978,
+            117786988,
+            117786986,
+            {
+              "durationMs": 118260,
+              "id": 117786975
+            },
+            117786973,
+            92607047,
+            138936959,
+            92607040,
+            123974149,
+            119890671,
+            {
+              "durationMs": 140069,
+              "id": 109332243
+            },
+            109332245,
+            109332241,
+            109332246,
+            111402811,
+            109332244,
+            111402812,
+            109332242,
+            109332240,
+            108021209,
+            111402810,
+            115308811,
+            103247531,
+            109996948,
+            {
+              "durationMs": 117554,
+              "id": 112412060
+            },
+            48591466,
+            {
+              "durationMs": 108960,
+              "id": 112412062
+            },
+            112412057,
+            112412052,
+            112412059,
+            112412063,
+            112412065,
+            73131630,
+            51998064,
+            17198411,
+            {
+              "durationMs": 174788,
+              "id": 119296549
+            },
+            50400506,
+            21220262,
+            119359242,
+            130919971,
+            45239748,
+            112679396,
+            112892660,
+            130919918,
+            61693507,
+            41249159,
+            83836709,
+            131898071,
+            30087861,
+            {
+              "durationMs": 266501,
+              "id": 27323562
+            },
+            104074051,
+            119057930,
+            30087863,
+            30087864,
+            81936409,
+            30087869,
+            93570866,
+            118372646,
+            148942881,
+            25168288,
+            93570865,
+            {
+              "durationMs": 134246,
+              "id": 86503869
+            },
+            124752054,
+            30087867,
+            134139514,
+            {
+              "durationMs": 189835,
+              "id": 150988063
+            },
+            140085666,
+            124181018,
+            136487137,
+            108046214,
+            {
+              "durationMs": 89838,
+              "id": 88273925
+            },
+            {
+              "durationMs": 152741,
+              "id": 89274168
+            },
+            125523428,
+            107819456,
+            {
+              "durationMs": 138971,
+              "id": 139748379
+            },
+            120945839,
+            106894276,
+            137238387,
+            106894277,
+            106894279,
+            30087868,
+            106894278,
+            {
+              "durationMs": 115984,
+              "id": 122637119
+            },
+            106894280,
+            108756423,
+            125523427,
+            138899089,
+            {
+              "durationMs": 105639,
+              "id": 134260210
+            },
+            113095208,
+            125967717,
+            45468214,
+            111001120,
+            69046542,
+            {
+              "durationMs": 183223,
+              "id": 70765563
+            },
+            79415117,
+            {
+              "durationMs": 173558,
+              "id": 111096030
+            },
+            131926723,
+            98085667,
+            121240334,
+            118111188,
+            111001122,
+            116086498,
+            111001124,
+            92193257,
+            {
+              "durationMs": 193205,
+              "id": 122897352
+            },
+            114235473,
+            128884518,
+            103889955,
+            114235480,
+            108658411,
+            123244387,
+            119426246,
+            114116687,
+            115494946,
+            107622733,
+            109989523,
+            107528942,
+            105366595,
+            111124414,
+            116519065,
+            {
+              "durationMs": 86040,
+              "id": 114984968
+            },
+            109090867,
+            95011123,
+            {
+              "durationMs": 254511,
+              "id": 120002920
+            },
+            112047067,
+            112047068,
+            {
+              "durationMs": 202815,
+              "id": 103704469
+            },
+            107281308,
+            112047070,
+            112047069,
+            121793163,
+            128507522
+          ],
+          "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_05/refs/heads/main/tracks/%%"
+        },
+        {
+          "trackIds": [
+            128507523,
+            128507528,
+            114101996,
+            128507529,
+            {
+              "durationMs": 132519,
+              "id": 128237156
+            },
+            91779145,
+            78121932,
+            93556500,
+            148012030,
+            61843242,
+            29508025,
+            48591728,
+            29508027,
+            29508026,
+            130159416,
+            29508044,
+            29508051,
+            109060764,
+            29508052,
+            29508031,
+            29508034,
+            93556491,
+            93556493,
+            138562790,
+            93556496,
+            127365615,
+            93556495,
+            138670468,
+            118841489,
+            133041138,
+            119359226,
+            45239759,
+            48591488,
+            {
+              "durationMs": 180509,
+              "id": 106597497
+            },
+            48591484,
+            48591486,
+            {
+              "durationMs": 145533,
+              "id": 40498604
+            },
+            40498607,
+            131121688,
+            83836678,
+            45239765,
+            109060770,
+            131898073,
+            61843244,
+            {
+              "durationMs": 169433,
+              "id": 42237527
+            },
+            141335101,
+            135264160,
+            40498609,
+            34972348,
+            104429148,
+            116728295,
+            110263046,
+            {
+              "durationMs": 114547,
+              "id": 137321624
+            },
+            146196962,
+            124415056,
+            69420955,
+            136272298,
+            {
+              "durationMs": 167344,
+              "id": 124732867
+            },
+            139425670,
+            139046043,
+            132182987,
+            131971598,
+            21287099,
+            117095821,
+            143243394,
+            106619075,
+            53582338,
+            {
+              "durationMs": 170269,
+              "id": 79980729
+            },
+            {
+              "durationMs": 167184,
+              "id": 114913248
+            },
+            47354657,
+            57185716,
+            113384828,
+            {
+              "durationMs": 98664,
+              "id": 80849470
+            },
+            148716123,
+            148715952,
+            {
+              "durationMs": 131425,
+              "id": 105007663
+            },
+            45551598,
+            145749448,
+            107329119,
+            141826350,
+            125535666,
+            79405420,
+            60161136,
+            137826264,
+            113990669,
+            105382846,
+            {
+              "durationMs": 159611,
+              "id": 119520466
+            },
+            139952380,
+            {
+              "durationMs": 270431,
+              "id": 40254858
+            },
+            {
+              "durationMs": 254401,
+              "id": 36342200
+            },
+            148715974,
+            138854073,
+            104798552,
+            105101211,
+            127453752,
+            114161738,
+            149231994,
+            {
+              "durationMs": 115464,
+              "id": 121793175
+            },
+            130989227,
+            133174455,
+            93012513,
+            113384831,
+            {
+              "durationMs": 144042,
+              "id": 80159692
+            },
+            124630258,
+            123214892,
+            147212194,
+            119946332,
+            123214893,
+            36161919,
+            95699206,
+            128027859,
+            {
+              "durationMs": 200833,
+              "id": 132559741
+            },
+            136395879,
+            148716988,
+            {
+              "durationMs": 262374,
+              "id": 74257868
+            },
+            76711317,
+            133179861,
+            48596152,
+            109051372,
+            92607043,
+            130541079,
+            109051374,
+            109051371,
+            {
+              "durationMs": 161620,
+              "id": 58810153
+            },
+            109051373,
+            109051376,
+            109051379,
+            46951717,
+            109051377,
+            109051378,
+            109051382,
+            109051386,
+            109051384,
+            109051383,
+            109051380,
+            109051385,
+            {
+              "durationMs": 93574,
+              "id": 137804024
+            },
+            53685466,
+            129925713,
+            137656529,
+            81292490,
+            62792247,
+            48591459,
+            48919489,
+            117680717,
+            136026615,
+            {
+              "durationMs": 162534,
+              "id": 130169686
+            },
+            117929984,
+            60058836,
+            77009791,
+            135337934
+          ],
+          "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_06/refs/heads/main/tracks/%%"
+        },
+        {
+          "trackIds": [
+            48591464,
+            90842069,
+            113680839,
+            45239747,
+            81936407,
+            66938935,
+            66668864,
+            93556494,
+            73495731,
+            {
+              "durationMs": 209168,
+              "id": 40498612
+            },
+            151431532,
+            64015290,
+            42498650,
+            137242381,
+            149219587,
+            106574623,
+            90237981,
+            {
+              "durationMs": 200046,
+              "id": 43504917
+            },
+            {
+              "durationMs": 162955,
+              "id": 149171834
+            },
+            {
+              "durationMs": 255533,
+              "id": 40371622
+            },
+            {
+              "durationMs": 182155,
+              "id": 43532695
+            },
+            72582098,
+            76788657,
+            {
+              "durationMs": 120036,
+              "id": 107544285
+            },
+            134997178,
+            115682364,
+            128831134,
+            133174442,
+            117505549,
+            112679395,
+            119280175,
+            109779400,
+            {
+              "durationMs": 174527,
+              "id": 38690302
+            },
+            85095956,
+            41900827,
+            {
+              "durationMs": 137169,
+              "id": 119296540
+            },
+            {
+              "durationMs": 139729,
+              "id": 108393736
+            },
+            103574254,
+            120946583,
+            {
+              "durationMs": 208382,
+              "id": 149146246
+            },
+            61221107,
+            58810157,
+            137497429,
+            112927027,
+            81936401,
+            136598162,
+            116515484,
+            116649708,
+            133174435,
+            {
+              "durationMs": 147097,
+              "id": 119296515
+            },
+            {
+              "durationMs": 108042,
+              "id": 121385451
+            },
+            148717002,
+            {
+              "durationMs": 211248,
+              "id": 53223217
+            },
+            {
+              "durationMs": 113737,
+              "id": 112220712
+            },
+            99697481,
+            81936417,
+            118465147,
+            {
+              "durationMs": 215173,
+              "id": 49336734
+            },
+            127212428,
+            103303171,
+            106067863,
+            {
+              "durationMs": 307229,
+              "id": 43504918
+            },
+            109990504,
+            53256122,
+            110023310,
+            {
+              "durationMs": 165332,
+              "id": 73375329
+            },
+            128785981,
+            131402974,
+            148716977,
+            85971535,
+            131898080,
+            119158496,
+            72737512,
+            144935313,
+            89104835,
+            110023312,
+            {
+              "durationMs": 197407,
+              "id": 114088774
+            },
+            {
+              "durationMs": 131553,
+              "id": 82790447
+            },
+            51950492,
+            148715962,
+            105702985,
+            128507538,
+            129773110,
+            133706042,
+            109110867,
+            119728718,
+            {
+              "durationMs": 222119,
+              "id": 48928606
+            },
+            125157964,
+            104817646,
+            130009827,
+            107827229,
+            122765640,
+            {
+              "durationMs": 100000,
+              "id": 108422089
+            },
+            {
+              "durationMs": 186619,
+              "id": 117131972
+            },
+            112047077,
+            114896393,
+            81936397,
+            59759472,
+            123277830,
+            17198343,
+            83924496,
+            134308745,
+            81936402,
+            101389541,
+            62810142,
+            59556187,
+            52765483,
+            {
+              "durationMs": 126096,
+              "id": 124711308
+            },
+            35758332,
+            143482533,
+            53839022,
+            116649706,
+            122095885,
+            89382788,
+            {
+              "durationMs": 138264,
+              "id": 132599809
+            },
+            {
+              "durationMs": 90880,
+              "id": 125539266
+            },
+            89116734,
+            78608850,
+            128750389,
+            68269714,
+            148715970,
+            136074520,
+            136101921,
+            {
+              "durationMs": 140225,
+              "id": 119296517
+            },
+            {
+              "durationMs": 122201,
+              "id": 70524316
+            },
+            126276767,
+            70691077,
+            140257587,
+            122053558,
+            138073519,
+            {
+              "durationMs": 193959,
+              "id": 53582330
+            },
+            45541231,
+            97345805,
+            122728371,
+            138578779,
+            139803303,
+            114343051,
+            135680515,
+            97277436,
+            148628495,
+            148716914,
+            38681475,
+            21287095,
+            109051375,
+            104198618,
+            106894275,
+            103457320,
+            119158497,
+            53685449,
+            110023314,
+            44950137,
+            {
+              "durationMs": 163944,
+              "id": 45564126
+            }
+          ],
+          "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_07/refs/heads/main/tracks/%%"
+        },
+        {
+          "trackIds": [
+            36161918,
+            112218101,
+            116357690,
+            139046055,
+            112035753,
+            139046046,
+            139046051,
+            135706401,
+            62556361,
+            {
+              "durationMs": 98589,
+              "id": 136101925
+            },
+            {
+              "durationMs": 144539,
+              "id": 38681476
+            },
+            140712545,
+            139046056,
+            136267325,
+            147953044,
+            112045232,
+            108857579,
+            {
+              "durationMs": 198557,
+              "id": 53838987
+            },
+            114084879,
+            81747372,
+            135590034,
+            129054544,
+            {
+              "durationMs": 162220,
+              "id": 116970155
+            },
+            132723443,
+            138412039,
+            119296533,
+            103844887,
+            119923186,
+            133429866,
+            129683733,
+            148716915,
+            112996875,
+            130735949,
+            {
+              "durationMs": 212571,
+              "id": 84894428
+            },
+            42498653,
+            109996944,
+            {
+              "durationMs": 202266,
+              "id": 150820029
+            },
+            82890465,
+            112217623,
+            27323567,
+            149180232,
+            27323574,
+            48591518,
+            {
+              "durationMs": 164075,
+              "id": 46844318
+            },
+            {
+              "durationMs": 191321,
+              "id": 46844319
+            },
+            27317245,
+            27323560,
+            {
+              "durationMs": 174501,
+              "id": 46844320
+            },
+            {
+              "durationMs": 235001,
+              "id": 44368106
+            },
+            {
+              "durationMs": 151487,
+              "id": 46844312
+            },
+            149171791,
+            {
+              "durationMs": 223637,
+              "id": 46844321
+            },
+            77143804,
+            {
+              "durationMs": 170034,
+              "id": 46844317
+            },
+            {
+              "durationMs": 206553,
+              "id": 46844315
+            },
+            {
+              "durationMs": 210733,
+              "id": 46844314
+            },
+            {
+              "durationMs": 132310,
+              "id": 123726329
+            },
+            117219730,
+            108721702,
+            105630453,
+            70975421,
+            107970506,
+            78489534,
+            107970516,
+            133429873,
+            107970523,
+            133429868,
+            105333543,
+            131794589,
+            107970505,
+            131794593,
+            145192519,
+            145192511,
+            78489537,
+            131794600,
+            78489529,
+            131794592,
+            145192512,
+            114440638,
+            131794596,
+            114440643,
+            117472918,
+            119043915,
+            131794591,
+            {
+              "durationMs": 146054,
+              "id": 95505944
+            },
+            40498601,
+            148610616,
+            86505315,
+            119258438,
+            {
+              "durationMs": 207203,
+              "id": 52397208
+            },
+            149171789,
+            38436677,
+            138562786,
+            39779902,
+            73939474,
+            138562779,
+            93556488,
+            118618032,
+            112996867,
+            132723446,
+            38788303,
+            132723447,
+            {
+              "durationMs": 168364,
+              "id": 40498610
+            },
+            112996879,
+            92607045,
+            109051381,
+            {
+              "durationMs": 142736,
+              "id": 60544538
+            },
+            48592437,
+            118841491,
+            112679398,
+            142267453,
+            118841471,
+            81747393,
+            85327088,
+            116649710,
+            44121115,
+            138503834,
+            118111184,
+            55928194,
+            137240582,
+            97277432,
+            103844893,
+            97277434,
+            39779900,
+            {
+              "durationMs": 201091,
+              "id": 119296543
+            },
+            109125971,
+            91519009,
+            125243454,
+            100717938,
+            41900814,
+            118990563,
+            119254221,
+            48591644,
+            78871330,
+            {
+              "durationMs": 210396,
+              "id": 66668866
+            },
+            125535665,
+            77381036,
+            27317253
+          ],
+          "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_08/refs/heads/main/tracks/%%"
+        },
+        {
+          "trackIds": [
+            131393823,
+            144973122,
+            65889392,
+            137242382,
+            40345287,
+            48591615,
+            {
+              "durationMs": 186436,
+              "id": 145192521
+            },
+            145192522,
+            {
+              "durationMs": 201094,
+              "id": 106713246
+            },
+            40345286,
+            108021210,
+            61221104,
+            111402813,
+            138756210,
+            {
+              "durationMs": 245580,
+              "id": 45439389
+            },
+            103247540,
+            117219736,
+            {
+              "durationMs": 146547,
+              "id": 41435392
+            },
+            117219721,
+            58478014,
+            95699208,
+            86503267,
+            95699209,
+            61638510,
+            107604519,
+            116649705,
+            126242675,
+            116649701,
+            {
+              "durationMs": 136806,
+              "id": 119296535
+            },
+            116649697,
+            {
+              "durationMs": 211566,
+              "id": 63607800
+            },
+            105382853,
+            85971524,
+            {
+              "durationMs": 205744,
+              "id": 119296520
+            },
+            105382835,
+            148716903,
+            {
+              "durationMs": 147595,
+              "id": 105382845
+            },
+            148716946,
+            148716101,
+            148716991,
+            73173762,
+            {
+              "durationMs": 135997,
+              "id": 148715960
+            },
+            148716110,
+            99699702,
+            107544286,
+            105157817,
+            106611749,
+            96567683,
+            112499902,
+            108797218,
+            {
+              "durationMs": 247928,
+              "id": 58720221
+            },
+            108484225,
+            63027206,
+            108484171,
+            36879977,
+            108484219,
+            {
+              "durationMs": 159141,
+              "id": 50941920
+            },
+            40038183,
+            90172225,
+            {
+              "durationMs": 244114,
+              "id": 108484207
+            },
+            128738466,
+            149171827,
+            {
+              "durationMs": 180274,
+              "id": 73375313
+            },
+            {
+              "durationMs": 213476,
+              "id": 149171825
+            },
+            53590446,
+            119454076,
+            {
+              "durationMs": 143856,
+              "id": 138032099
+            },
+            53582343,
+            53685453,
+            {
+              "durationMs": 72908,
+              "id": 115444644
+            },
+            {
+              "durationMs": 138031,
+              "id": 146626890
+            },
+            {
+              "durationMs": 311957,
+              "id": 53586382
+            },
+            108050042,
+            113502393,
+            138032098,
+            45541232,
+            124889466,
+            {
+              "durationMs": 152294,
+              "id": 132344542
+            },
+            107329124,
+            133174434,
+            133174453,
+            133174448,
+            143629775,
+            133174437,
+            55376891,
+            114603431,
+            41900788,
+            68074224,
+            118415641,
+            38976044,
+            97495955,
+            {
+              "durationMs": 120033,
+              "id": 143058948
+            },
+            106769378,
+            134223766,
+            138041649,
+            {
+              "durationMs": 196183,
+              "id": 38563414
+            },
+            139307354,
+            143319429,
+            71766713,
+            {
+              "durationMs": 160026,
+              "id": 83775793
+            },
+            {
+              "durationMs": 106658,
+              "id": 136904441
+            },
+            29720951,
+            35208794,
+            75112280,
+            66668868,
+            140701191,
+            48592479,
+            125145915,
+            29508029,
+            61221106,
+            91519011,
+            {
+              "durationMs": 175990,
+              "id": 29508047
+            },
+            129167650,
+            141012344,
+            103247537,
+            110023293,
+            29508038,
+            113286232,
+            125980128,
+            131393819,
+            131393817,
+            114977973,
+            125535663,
+            133174446,
+            133174452,
+            135767964,
+            129925714,
+            119560551,
+            59575374,
+            118366959,
+            39577642,
+            118366957,
+            73447516,
+            {
+              "durationMs": 154096,
+              "id": 85327086
+            },
+            {
+              "durationMs": 193675,
+              "id": 149218189
+            },
+            112679389,
+            118111189,
+            53586380,
+            102505200,
+            119296538,
+            48592132,
+            42976442,
+            93570844,
+            {
+              "durationMs": 142994,
+              "id": 152140598
+            },
+            36879868,
+            118275306,
+            118275305,
+            132020394,
+            127365608,
+            93556499
+          ],
+          "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_09/refs/heads/main/tracks/%%"
+        },
+        {
+          "trackIds": [
+            127365607,
+            118618031,
+            113140441,
+            118841472,
+            93556501,
+            127365611,
+            117131963,
+            119359227,
+            119359228,
+            119359231,
+            119359233,
+            119359232,
+            119359236,
+            59933962,
+            119359237,
+            117963715,
+            119280167,
+            119359239,
+            119359234,
+            59933959,
+            131718215,
+            131898078,
+            59933958,
+            {
+              "durationMs": 192656,
+              "id": 59933939
+            },
+            104242351,
+            115649643,
+            115774657,
+            128253247,
+            131898087,
+            {
+              "durationMs": 118126,
+              "id": 132344559
+            },
+            119280173,
+            119890674,
+            119454081,
+            113990664,
+            97809794,
+            138562791,
+            118366954,
+            119890673,
+            144098513,
+            45239760,
+            61693505,
+            129501470,
+            118618025,
+            45239761,
+            45239757,
+            41249164,
+            48591480,
+            40498608,
+            108127271,
+            48592062,
+            83836721,
+            61843247,
+            119057929,
+            119057918,
+            83836719,
+            61843270,
+            104242352,
+            104242335,
+            130919931,
+            131898097,
+            130919969,
+            36063273,
+            152439616,
+            151855578,
+            151855581,
+            148716140,
+            124469828,
+            148716984,
+            124469833,
+            148716115,
+            124469850,
+            148716980,
+            148716970,
+            134575495,
+            119454084,
+            143243403,
+            135962521,
+            132599811,
+            132335086,
+            138562764,
+            138891428,
+            138562775,
+            138562767,
+            137834249,
+            148716953,
+            147651927,
+            123291813,
+            141111615,
+            36142286,
+            138494971,
+            126980904,
+            132909312,
+            108743561,
+            147212207,
+            144991744,
+            36161933,
+            147212193,
+            134699699,
+            118251364,
+            {
+              "durationMs": 198664,
+              "id": 134699697
+            },
+            111618481,
+            {
+              "durationMs": 158436,
+              "id": 137240585
+            },
+            118251363,
+            {
+              "durationMs": 133202,
+              "id": 118618030
+            },
+            45239756,
+            133041135,
+            113140423,
+            93012505,
+            {
+              "durationMs": 148379,
+              "id": 106479320
+            },
+            83371036,
+            70975546,
+            93012514,
+            70975550,
+            42832397,
+            48592130,
+            59933963,
+            109301175,
+            42832398,
+            150669894,
+            150669900,
+            53685452,
+            149665384,
+            53839000,
+            57185852,
+            {
+              "durationMs": 261045,
+              "id": 59933949
+            },
+            53685461,
+            53590445,
+            43900345,
+            53586396,
+            {
+              "durationMs": 244010,
+              "id": 53582342
+            },
+            63740136,
+            36063262,
+            36063267,
+            36063272,
+            53685454,
+            {
+              "durationMs": 143491,
+              "id": 148716143
+            },
+            29852766,
+            148716127
+          ],
+          "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_10/refs/heads/main/tracks/%%"
+        },
+        {
+          "trackIds": [
+            63740184,
+            79405443,
+            148715965,
+            148716969,
+            124469853,
+            93570845,
+            109918674,
+            130919915,
+            105844299,
+            76780022,
+            {
+              "durationMs": 141535,
+              "id": 63104735
+            },
+            105988815,
+            81624799,
+            {
+              "durationMs": 138522,
+              "id": 141807399
+            },
+            102494056,
+            {
+              "durationMs": 146567,
+              "id": 91715693
+            },
+            {
+              "durationMs": 93148,
+              "id": 120168430
+            },
+            76780018,
+            146446626,
+            {
+              "durationMs": 224415,
+              "id": 142275294
+            },
+            67489473,
+            109990530,
+            146446628,
+            {
+              "durationMs": 189365,
+              "id": 135455169
+            },
+            143576327,
+            {
+              "durationMs": 102237,
+              "id": 150598645
+            },
+            {
+              "durationMs": 88237,
+              "id": 110023306
+            },
+            {
+              "durationMs": 117707,
+              "id": 150577290
+            },
+            {
+              "durationMs": 176936,
+              "id": 143576329
+            },
+            {
+              "durationMs": 99964,
+              "id": 150461750
+            },
+            149446018,
+            {
+              "durationMs": 119318,
+              "id": 145536346
+            },
+            {
+              "durationMs": 102352,
+              "id": 104896799
+            },
+            {
+              "durationMs": 84952,
+              "id": 127453763
+            },
+            {
+              "durationMs": 164446,
+              "id": 97277430
+            },
+            133026374,
+            135581791,
+            {
+              "durationMs": 118695,
+              "id": 146533981
+            },
+            {
+              "durationMs": 106630,
+              "id": 149933821
+            },
+            {
+              "durationMs": 103845,
+              "id": 112890065
+            },
+            119296542,
+            {
+              "durationMs": 134437,
+              "id": 138562784
+            },
+            93556498,
+            {
+              "durationMs": 163721,
+              "id": 144650266
+            },
+            {
+              "durationMs": 88879,
+              "id": 136527527
+            },
+            {
+              "durationMs": 152329,
+              "id": 147901516
+            },
+            {
+              "durationMs": 125328,
+              "id": 137242385
+            },
+            {
+              "durationMs": 137001,
+              "id": 115902219
+            },
+            93556489,
+            {
+              "durationMs": 140618,
+              "id": 151855603
+            },
+            {
+              "durationMs": 123190,
+              "id": 145054524
+            },
+            29727292,
+            155025088,
+            {
+              "durationMs": 110838,
+              "id": 119689460
+            },
+            {
+              "durationMs": 142237,
+              "id": 119689461
+            },
+            {
+              "durationMs": 140016,
+              "id": 119689464
+            },
+            152396542,
+            126984723,
+            {
+              "durationMs": 94275,
+              "id": 136404135
+            },
+            {
+              "durationMs": 134034,
+              "id": 138629224
+            },
+            {
+              "durationMs": 172329,
+              "id": 129803817
+            },
+            {
+              "durationMs": 124473,
+              "id": 111001121
+            },
+            {
+              "durationMs": 128339,
+              "id": 110374527
+            },
+            {
+              "durationMs": 204538,
+              "id": 112132165
+            },
+            {
+              "durationMs": 190566,
+              "id": 149870633
+            },
+            136272297,
+            {
+              "durationMs": 143516,
+              "id": 136797648
+            },
+            {
+              "durationMs": 179017,
+              "id": 39193875
+            },
+            {
+              "durationMs": 239883,
+              "id": 36045842
+            },
+            {
+              "durationMs": 164154,
+              "id": 39580298
+            },
+            {
+              "durationMs": 274677,
+              "id": 34972342
+            },
+            {
+              "durationMs": 228441,
+              "id": 37231301
+            },
+            {
+              "durationMs": 135000,
+              "id": 37231311
+            },
+            {
+              "durationMs": 220618,
+              "id": 39580348
+            },
+            {
+              "durationMs": 249418,
+              "id": 44803091
+            },
+            {
+              "durationMs": 206628,
+              "id": 59397779
+            },
+            {
+              "durationMs": 205217,
+              "id": 71650516
+            },
+            {
+              "durationMs": 91271,
+              "id": 70748121
+            },
+            {
+              "durationMs": 186577,
+              "id": 36360202
+            },
+            {
+              "durationMs": 165381,
+              "id": 36620592
+            },
+            {
+              "durationMs": 217692,
+              "id": 58746554
+            },
+            {
+              "durationMs": 128026,
+              "id": 130751224
+            },
+            {
+              "durationMs": 112483,
+              "id": 119351895
+            },
+            {
+              "durationMs": 144901,
+              "id": 132217704
+            },
+            {
+              "durationMs": 169041,
+              "id": 27737513
+            }
+          ],
+          "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_11/refs/heads/main/tracks/%%"
+        }
+      ]
+    }
+  ]
+}
