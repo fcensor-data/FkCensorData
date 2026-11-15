@@ -331,6 +331,15 @@
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/8316823/29f363dd.a.24785807-1/200x200"> | [Я люблю](https://music.yandex.ru/track/111124414) | [Enina](https://music.yandex.ru/artist/17553811) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/9784575/35ce2824.a.25969197-1/200x200"> | [MiMiMaMaMu](https://music.yandex.ru/track/114088774) | [Exile](https://music.yandex.ru/artist/8186601), [STOPBAN](https://music.yandex.ru/artist/19276880), [DILBLIN](https://music.yandex.ru/artist/12292887) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/6386858/7117c4dc.a.24286296-1/200x200"> | [Оставайся (Intro)](https://music.yandex.ru/track/109647066) | [f0lk](https://music.yandex.ru/artist/9172429) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.jpg"> | PAWS | [Face](https://music.yandex.ru/artist/305418) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.jpg"> | SLIME | [Face](https://music.yandex.ru/artist/305418) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.jpg"> | WOOF | [Face](https://music.yandex.ru/artist/305418) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.jpg"> | МОЙ КАЛАШНИКОВ | [Face](https://music.yandex.ru/artist/305418) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.jpg"> | ОНА ХОЧЕТ МЕНЯ | [Face](https://music.yandex.ru/artist/305418) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.jpg"> | ПОДРУГА ПОДРУГ | [Face](https://music.yandex.ru/artist/305418) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.jpg"> | РЫТЬ | [Face](https://music.yandex.ru/artist/305418) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.jpg"> | СПАСАТЕЛЬНЫЙ КРУГ | [Face](https://music.yandex.ru/artist/305418) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.jpg"> | ЭТО FACE | [Face](https://music.yandex.ru/artist/305418) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/10126140/27ef2e2c.a.32252131-1/200x200"> | [ATL Flow](https://music.yandex.ru/track/128507538) | [FENDIGLOCK](https://music.yandex.ru/artist/8317666) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/10126140/27ef2e2c.a.32252131-1/200x200"> | [Верят](https://music.yandex.ru/track/128507529) | [FENDIGLOCK](https://music.yandex.ru/artist/8317666) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/8096180/77700cfe.a.25129938-1/200x200"> | [Допинг](https://music.yandex.ru/track/112047077) | [FENDIGLOCK](https://music.yandex.ru/artist/8317666) |
@@ -1588,6 +1597,7 @@
 | | Название | Исполнители |
 |:-:|---|---|
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.png"> | [Еби меня, малышка](https://music.yandex.ru/album/24720439) | [CUPSIZE](https://music.yandex.ru/artist/10946087) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.jpg"> | [SLIME](https://music.yandex.ru/album/2000000004) | [Face](https://music.yandex.ru/artist/305418) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/21498071/442b6cf5.a.4613862-2/200x200"> | [ПРИЛУНЕНИЕ](https://music.yandex.ru/album/4613862) | [GONE.Fludd](https://music.yandex.ru/artist/4865954), [M00NCHILD](https://music.yandex.ru/artist/5278742) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/16406615/5c99d5c5.a.28396377-2/200x200"> | [Маме не покажем!!](https://music.yandex.ru/album/28396377) | [KSB muzic](https://music.yandex.ru/artist/17668424) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/142001/f498c5cb.a.7399294-1/200x200"> | [Kaidan](https://music.yandex.ru/album/41831097) | [zavet](https://music.yandex.ru/artist/7081546) |
