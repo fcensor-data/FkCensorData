@@ -206,6 +206,45 @@
             ]
           ]
         },
+        "2000000005": {
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "coverUri": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000005.jpg",
+          "releaseDate": "2018-09-02T00:00:00+03:00",
+          "title": "ПУТИ НЕИСПОВЕДИМЫ",
+          "volumes": [
+            [
+              {
+                "id": "600000001000055"
+              },
+              {
+                "id": "600000001000056"
+              },
+              {
+                "id": "600000001000057"
+              },
+              {
+                "id": "600000001000058"
+              },
+              {
+                "id": "600000001000059"
+              },
+              {
+                "id": "600000001000060"
+              },
+              {
+                "id": "600000001000061"
+              },
+              {
+                "id": "600000001000062"
+              }
+            ]
+          ]
+        },
         "24720439": {
           "artists": [
             {
@@ -1720,6 +1759,102 @@
             }
           ],
           "title": "SLIME"
+        },
+        "600000001000055": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000055.lrc?v=1794753346"
+          },
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "title": "ВОРОВАННЫЙ ВОЗДУХ"
+        },
+        "600000001000056": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000056.lrc?v=1794753346"
+          },
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "title": "ЗАТОЧКА"
+        },
+        "600000001000057": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000057.lrc?v=1794753346"
+          },
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "title": "ИЗ ОКНА"
+        },
+        "600000001000058": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000058.lrc?v=1794753346"
+          },
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "title": "САЛАМ"
+        },
+        "600000001000059": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000059.lrc?v=1794753346"
+          },
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "title": "НИКАКОЙ ЛЮБВИ"
+        },
+        "600000001000060": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000060.lrc?v=1794753346"
+          },
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "title": "НАШ МЕНТАЛИТЕТ"
+        },
+        "600000001000061": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000061.lrc?v=1794753346"
+          },
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "title": "ЧЕТВЁРТЫЙ ВСАДНИК"
+        },
+        "600000001000062": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000062.lrc?v=1794753346"
+          },
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "title": "МОЛИТВА"
         },
         "63104735": {
           "coverUri": "avatars.yandex.net/get-music-content/2358262/6e2a2403.a.10009371-1/%%"
@@ -4439,6 +4574,38 @@
             {
               "durationMs": 213368,
               "id": 600000001000054
+            },
+            {
+              "durationMs": 104699,
+              "id": 600000001000055
+            },
+            {
+              "durationMs": 195474,
+              "id": 600000001000056
+            },
+            {
+              "durationMs": 201300,
+              "id": 600000001000057
+            },
+            {
+              "durationMs": 218697,
+              "id": 600000001000058
+            },
+            {
+              "durationMs": 182518,
+              "id": 600000001000059
+            },
+            {
+              "durationMs": 171050,
+              "id": 600000001000060
+            },
+            {
+              "durationMs": 157727,
+              "id": 600000001000061
+            },
+            {
+              "durationMs": 157884,
+              "id": 600000001000062
             }
           ],
           "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_11/refs/heads/main/tracks/%%"
