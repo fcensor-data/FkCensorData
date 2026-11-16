@@ -290,6 +290,45 @@
             ]
           ]
         },
+        "2000000007": {
+          "artists": [
+            {
+              "id": 305418,
+              "name": "Face"
+            }
+          ],
+          "coverUri": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000007.jpg",
+          "releaseDate": "2017-01-13T00:00:00+03:00",
+          "title": "REVENGE",
+          "volumes": [
+            [
+              {
+                "id": "600000001000073"
+              },
+              {
+                "id": "600000001000074"
+              },
+              {
+                "id": "600000001000075"
+              },
+              {
+                "id": "600000001000076"
+              },
+              {
+                "id": "600000001000077"
+              },
+              {
+                "id": "600000001000078"
+              },
+              {
+                "id": "600000001000079"
+              },
+              {
+                "id": "600000001000080"
+              }
+            ]
+          ]
+        },
         "24720439": {
           "artists": [
             {
@@ -2105,6 +2144,78 @@
             }
           ],
           "title": "СКРИЖАЛЬ"
+        },
+        "600000001000073": {
+          "artists": [
+            {
+              "id": 305418,
+              "name": "Face"
+            }
+          ],
+          "title": "Night Fever"
+        },
+        "600000001000074": {
+          "artists": [
+            {
+              "id": 305418,
+              "name": "Face"
+            }
+          ],
+          "title": "PSP"
+        },
+        "600000001000075": {
+          "artists": [
+            {
+              "id": 305418,
+              "name": "Face"
+            }
+          ],
+          "title": "Забирай всё что хочешь"
+        },
+        "600000001000076": {
+          "artists": [
+            {
+              "id": 305418,
+              "name": "Face"
+            }
+          ],
+          "title": "Supreme X Vetements"
+        },
+        "600000001000077": {
+          "artists": [
+            {
+              "id": 305418,
+              "name": "Face"
+            }
+          ],
+          "title": "Тысячи птиц"
+        },
+        "600000001000078": {
+          "artists": [
+            {
+              "id": 305418,
+              "name": "Face"
+            }
+          ],
+          "title": "Vlone"
+        },
+        "600000001000079": {
+          "artists": [
+            {
+              "id": 305418,
+              "name": "Face"
+            }
+          ],
+          "title": "Я бы умер"
+        },
+        "600000001000080": {
+          "artists": [
+            {
+              "id": 305418,
+              "name": "Face"
+            }
+          ],
+          "title": "Техно шоу"
         },
         "63104735": {
           "coverUri": "avatars.yandex.net/get-music-content/2358262/6e2a2403.a.10009371-1/%%"
@@ -4908,6 +5019,38 @@
             {
               "durationMs": 168542,
               "id": 600000001000072
+            },
+            {
+              "durationMs": 162316,
+              "id": 600000001000073
+            },
+            {
+              "durationMs": 127525,
+              "id": 600000001000074
+            },
+            {
+              "durationMs": 204702,
+              "id": 600000001000075
+            },
+            {
+              "durationMs": 124810,
+              "id": 600000001000076
+            },
+            {
+              "durationMs": 164352,
+              "id": 600000001000077
+            },
+            {
+              "durationMs": 142924,
+              "id": 600000001000078
+            },
+            {
+              "durationMs": 192018,
+              "id": 600000001000079
+            },
+            {
+              "durationMs": 191887,
+              "id": 600000001000080
             }
           ],
           "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_11/refs/heads/main/tracks/%%"
