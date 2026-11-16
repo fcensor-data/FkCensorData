@@ -718,6 +718,11 @@
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/108800777.lrc?v=1794792068"
           }
         },
+        "110313505": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/110313505.lrc?v=1794792216"
+          }
+        },
         "110374527": {
           "durationMs": 128339
         },
