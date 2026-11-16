@@ -713,6 +713,11 @@
         }
       },
       "tracks": {
+        "108800777": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/108800777.lrc?v=1794792068"
+          }
+        },
         "110374527": {
           "durationMs": 128339
         },
