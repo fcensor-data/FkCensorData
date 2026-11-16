@@ -331,6 +331,10 @@
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/8316823/29f363dd.a.24785807-1/200x200"> | [Я люблю](https://music.yandex.ru/track/111124414) | [Enina](https://music.yandex.ru/artist/17553811) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/9784575/35ce2824.a.25969197-1/200x200"> | [MiMiMaMaMu](https://music.yandex.ru/track/114088774) | [Exile](https://music.yandex.ru/artist/8186601), [STOPBAN](https://music.yandex.ru/artist/19276880), [DILBLIN](https://music.yandex.ru/artist/12292887) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/6386858/7117c4dc.a.24286296-1/200x200"> | [Оставайся (Intro)](https://music.yandex.ru/track/109647066) | [f0lk](https://music.yandex.ru/artist/9172429) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000008.jpg"> | Forever Young | [Face](https://music.yandex.ru/artist/305418) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000008.jpg"> | Ian Connor | [Face](https://music.yandex.ru/artist/305418) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000008.jpg"> | Instagram | [Face](https://music.yandex.ru/artist/305418) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000008.jpg"> | Motorola | [Face](https://music.yandex.ru/artist/305418) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000007.jpg"> | Night Fever | [Face](https://music.yandex.ru/artist/305418) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.jpg"> | PAWS | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000007.jpg"> | PSP | [Face](https://music.yandex.ru/artist/305418) |
@@ -338,6 +342,7 @@
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000007.jpg"> | Supreme X Vetements | [Face](https://music.yandex.ru/artist/305418) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000007.jpg"> | Vlone | [Face](https://music.yandex.ru/artist/305418) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.jpg"> | WOOF | [FACE](https://music.yandex.ru/artist/5330511) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000008.jpg"> | Yeezy Boost | [Face](https://music.yandex.ru/artist/305418) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000006.jpg"> | БЕДНОМУ | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000005.jpg"> | ВОРОВАННЫЙ ВОЗДУХ | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000006.jpg"> | ВОСХИТИТЕЛЬНО | [FACE](https://music.yandex.ru/artist/5330511) |
@@ -1632,6 +1637,7 @@
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000006.jpg"> | [12](https://music.yandex.ru/album/2000000006) | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000007.jpg"> | [REVENGE](https://music.yandex.ru/album/2000000007) | [Face](https://music.yandex.ru/artist/305418) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.jpg"> | [SLIME](https://music.yandex.ru/album/2000000004) | [FACE](https://music.yandex.ru/artist/5330511) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000008.jpg"> | [VLONE](https://music.yandex.ru/album/2000000008) | [Face](https://music.yandex.ru/artist/305418) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000005.jpg"> | [ПУТИ НЕИСПОВЕДИМЫ](https://music.yandex.ru/album/2000000005) | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/21498071/442b6cf5.a.4613862-2/200x200"> | [ПРИЛУНЕНИЕ](https://music.yandex.ru/album/4613862) | [GONE.Fludd](https://music.yandex.ru/artist/4865954), [M00NCHILD](https://music.yandex.ru/artist/5278742) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/16406615/5c99d5c5.a.28396377-2/200x200"> | [Маме не покажем!!](https://music.yandex.ru/album/28396377) | [KSB muzic](https://music.yandex.ru/artist/17668424) |

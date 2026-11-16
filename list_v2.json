@@ -329,6 +329,36 @@
             ]
           ]
         },
+        "2000000008": {
+          "artists": [
+            {
+              "id": 305418,
+              "name": "Face"
+            }
+          ],
+          "coverUri": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000008.jpg",
+          "releaseDate": "2016-03-07T00:00:00+03:00",
+          "title": "VLONE",
+          "volumes": [
+            [
+              {
+                "id": "600000001000081"
+              },
+              {
+                "id": "600000001000082"
+              },
+              {
+                "id": "600000001000083"
+              },
+              {
+                "id": "600000001000084"
+              },
+              {
+                "id": "600000001000085"
+              }
+            ]
+          ]
+        },
         "24720439": {
           "artists": [
             {
@@ -2216,6 +2246,51 @@
             }
           ],
           "title": "Техно шоу"
+        },
+        "600000001000081": {
+          "artists": [
+            {
+              "id": 305418,
+              "name": "Face"
+            }
+          ],
+          "title": "Instagram"
+        },
+        "600000001000082": {
+          "artists": [
+            {
+              "id": 305418,
+              "name": "Face"
+            }
+          ],
+          "title": "Yeezy Boost"
+        },
+        "600000001000083": {
+          "artists": [
+            {
+              "id": 305418,
+              "name": "Face"
+            }
+          ],
+          "title": "Ian Connor"
+        },
+        "600000001000084": {
+          "artists": [
+            {
+              "id": 305418,
+              "name": "Face"
+            }
+          ],
+          "title": "Motorola"
+        },
+        "600000001000085": {
+          "artists": [
+            {
+              "id": 305418,
+              "name": "Face"
+            }
+          ],
+          "title": "Forever Young"
         },
         "63104735": {
           "coverUri": "avatars.yandex.net/get-music-content/2358262/6e2a2403.a.10009371-1/%%"
@@ -5051,6 +5126,26 @@
             {
               "durationMs": 191887,
               "id": 600000001000080
+            },
+            {
+              "durationMs": 144327,
+              "id": 600000001000081
+            },
+            {
+              "durationMs": 209371,
+              "id": 600000001000082
+            },
+            {
+              "durationMs": 208196,
+              "id": 600000001000083
+            },
+            {
+              "durationMs": 177136,
+              "id": 600000001000084
+            },
+            {
+              "durationMs": 191922,
+              "id": 600000001000085
             }
           ],
           "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_11/refs/heads/main/tracks/%%"
