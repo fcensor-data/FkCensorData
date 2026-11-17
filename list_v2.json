@@ -1148,6 +1148,11 @@
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/131794589.lrc?v=1794846703"
           }
         },
+        "132106235": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/132106235.lrc?v=1794959933"
+          }
+        },
         "132217704": {
           "__fckCensor": {},
           "artists": [
@@ -5614,6 +5619,10 @@
               "id": 130751224
             },
             130919915,
+            {
+              "durationMs": 231576,
+              "id": 132106235
+            },
             {
               "durationMs": 144901,
               "id": 132217704

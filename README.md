@@ -485,6 +485,7 @@
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/42108/9c4d8789.a.3043667-1/200x200"> | [Выдох-вдох](https://music.yandex.ru/track/25738208) | [GUF](https://music.yandex.ru/artist/158454) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/17722696/134f26a7.a.3269046-7/200x200"> | [Выход](https://music.yandex.ru/track/27317263) | [GUF](https://music.yandex.ru/artist/158454) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/15406468/37ce5602.a.62048-3/200x200"> | [Новогодняя](https://music.yandex.ru/track/42498653) | [GUF](https://music.yandex.ru/artist/158454) |
+| <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/14247687/b25894c0.a.33677101-1/200x200"> | [Остров](https://music.yandex.ru/track/132106235) | [GUF](https://music.yandex.ru/artist/158454) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/17722696/134f26a7.a.3269046-7/200x200"> | [Сегодня-завтра](https://music.yandex.ru/track/27317245) | [GUF](https://music.yandex.ru/artist/158454) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/17722696/f2928ee2.a.41822976-4/200x200"> | [Туман](https://music.yandex.ru/track/150820029) | [GUF](https://music.yandex.ru/artist/158454) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/17722696/134f26a7.a.3269046-7/200x200"> | [Фанзона](https://music.yandex.ru/track/27317253) | [GUF](https://music.yandex.ru/artist/158454) |
