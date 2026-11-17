@@ -1215,6 +1215,11 @@
           ],
           "title": "Я ещё жив"
         },
+        "140106845": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/140106845.lrc?v=1794958838"
+          }
+        },
         "142464338": {
           "artists": [
             {
@@ -5589,6 +5594,10 @@
             {
               "durationMs": 134034,
               "id": 138629224
+            },
+            {
+              "durationMs": 160052,
+              "id": 140106845
             },
             {
               "durationMs": 138522,

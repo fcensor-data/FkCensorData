@@ -1647,6 +1647,7 @@
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/5853241/42c9e468.a.29987692-1/200x200"> | [Ангел (Slowed)](https://music.yandex.ru/track/123214893) | [Юпи](https://music.yandex.ru/artist/20838374), [FORTUNA 812](https://music.yandex.ru/artist/21198251) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/5853241/42c9e468.a.29987692-1/200x200"> | [Ангел (Speed Up)](https://music.yandex.ru/track/123214892) | [Юпи](https://music.yandex.ru/artist/20838374), [FORTUNA 812](https://music.yandex.ru/artist/21198251) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/19752797/79a468b6.a.10957883-1/200x200"> | [МОЛЧАЛИВЫЙ БОБ](https://music.yandex.ru/track/66938935) | [ЯМАУГЛИ](https://music.yandex.ru/artist/7453048) |
+| <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/14350511/b6f7ff30.a.37030468-1/200x200"> | [Ты сама прикинь](https://music.yandex.ru/track/140106845) | [Ямыч Восточный Округ](https://music.yandex.ru/artist/8435558) |
 
 ## Подменяемые альбомы
 
