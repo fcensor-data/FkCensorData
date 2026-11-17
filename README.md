@@ -234,6 +234,17 @@
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/15406468/6a3fef47.a.24111378-4/200x200"> | [Компас](https://music.yandex.ru/track/108977147) | [CAKEBOY](https://music.yandex.ru/artist/331282) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/20322863/b4362607.a.9063771-1/200x200"> | [Шум в голове](https://music.yandex.ru/track/54281103) | [CAKEBOY](https://music.yandex.ru/artist/331282) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/20305588/cc93a479.a.32628180-1/200x200"> | [Легко ли быть молодым](https://music.yandex.ru/track/38788303) | [CENTR](https://music.yandex.ru/artist/41215) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg"> | 2007 | [Charli XCX](https://music.yandex.ru/artist/662347) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg"> | Camera | [Charli XCX](https://music.yandex.ru/artist/662347) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg"> | Card Declined | [Charli XCX](https://music.yandex.ru/artist/662347) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg"> | I'm Afraid | [Charli XCX](https://music.yandex.ru/artist/662347) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg"> | Magic Metal Montana | [Charli XCX](https://music.yandex.ru/artist/662347) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg"> | No One Lasts Forever featuring David Cronenberg | [Charli XCX](https://music.yandex.ru/artist/662347) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg"> | Persona | [Charli XCX](https://music.yandex.ru/artist/662347) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg"> | Rock Music | [Charli XCX](https://music.yandex.ru/artist/662347) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg"> | SS26 | [Charli XCX](https://music.yandex.ru/artist/662347) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg"> | Wink Wink | [Charli XCX](https://music.yandex.ru/artist/662347) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg"> | Yeah | [Charli XCX](https://music.yandex.ru/artist/662347) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/17740720/a526dd68.a.40920745-1/200x200"> | [Каберне](https://music.yandex.ru/track/148778065) | [CHERNOVSKY](https://music.yandex.ru/artist/9366802) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/17784780/d1bb1383.a.40922387-1/200x200"> | [По этажам](https://music.yandex.ru/track/148781606) | [CHERNOVSKY](https://music.yandex.ru/artist/9366802), [БАСАРДЖИН](https://music.yandex.ru/artist/16429164) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/17722696/6ab4251d.a.23265802-2/200x200"> | [ФЛЮР](https://music.yandex.ru/track/106619075) | [CHERRY BERRY](https://music.yandex.ru/artist/4426748), [LOVELYDILLER](https://music.yandex.ru/artist/6021792) |
@@ -1634,6 +1645,7 @@
 
 | | Название | Исполнители |
 |:-:|---|---|
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg"> | [Music, Fashion, Film](https://music.yandex.ru/album/2000000009) | [Charli XCX](https://music.yandex.ru/artist/662347) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.png"> | [Еби меня, малышка](https://music.yandex.ru/album/24720439) | [CUPSIZE](https://music.yandex.ru/artist/10946087) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000006.jpg"> | [12](https://music.yandex.ru/album/2000000006) | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000007.jpg"> | [REVENGE](https://music.yandex.ru/album/2000000007) | [FACE](https://music.yandex.ru/artist/5330511) |

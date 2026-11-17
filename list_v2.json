@@ -359,6 +359,54 @@
             ]
           ]
         },
+        "2000000009": {
+          "artists": [
+            {
+              "id": 662347,
+              "name": "Charli XCX"
+            }
+          ],
+          "coverUri": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg",
+          "releaseDate": "2026-07-24T00:00:00+03:00",
+          "title": "Music, Fashion, Film",
+          "volumes": [
+            [
+              {
+                "id": "600000001000086"
+              },
+              {
+                "id": "600000001000087"
+              },
+              {
+                "id": "600000001000088"
+              },
+              {
+                "id": "600000001000089"
+              },
+              {
+                "id": "600000001000090"
+              },
+              {
+                "id": "600000001000091"
+              },
+              {
+                "id": "600000001000092"
+              },
+              {
+                "id": "600000001000093"
+              },
+              {
+                "id": "600000001000094"
+              },
+              {
+                "id": "600000001000095"
+              },
+              {
+                "id": "600000001000096"
+              }
+            ]
+          ]
+        },
         "24720439": {
           "artists": [
             {
@@ -2631,6 +2679,135 @@
             }
           ],
           "title": "Forever Young"
+        },
+        "600000001000086": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000086.lrc?v=1794954954"
+          },
+          "artists": [
+            {
+              "id": 662347,
+              "name": "Charli XCX"
+            }
+          ],
+          "title": "Rock Music"
+        },
+        "600000001000087": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000087.lrc?v=1794954954"
+          },
+          "artists": [
+            {
+              "id": 662347,
+              "name": "Charli XCX"
+            }
+          ],
+          "title": "SS26"
+        },
+        "600000001000088": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000088.lrc?v=1794954954"
+          },
+          "artists": [
+            {
+              "id": 662347,
+              "name": "Charli XCX"
+            }
+          ],
+          "title": "Card Declined"
+        },
+        "600000001000089": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000089.lrc?v=1794954954"
+          },
+          "artists": [
+            {
+              "id": 662347,
+              "name": "Charli XCX"
+            }
+          ],
+          "title": "Camera"
+        },
+        "600000001000090": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000090.lrc?v=1794954954"
+          },
+          "artists": [
+            {
+              "id": 662347,
+              "name": "Charli XCX"
+            }
+          ],
+          "title": "2007"
+        },
+        "600000001000091": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000091.lrc?v=1794954954"
+          },
+          "artists": [
+            {
+              "id": 662347,
+              "name": "Charli XCX"
+            }
+          ],
+          "title": "I'm Afraid"
+        },
+        "600000001000092": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000092.lrc?v=1794954954"
+          },
+          "artists": [
+            {
+              "id": 662347,
+              "name": "Charli XCX"
+            }
+          ],
+          "title": "Yeah"
+        },
+        "600000001000093": {
+          "artists": [
+            {
+              "id": 662347,
+              "name": "Charli XCX"
+            }
+          ],
+          "title": "Wink Wink"
+        },
+        "600000001000094": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000094.lrc?v=1794954954"
+          },
+          "artists": [
+            {
+              "id": 662347,
+              "name": "Charli XCX"
+            }
+          ],
+          "title": "Persona"
+        },
+        "600000001000095": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000095.lrc?v=1794954954"
+          },
+          "artists": [
+            {
+              "id": 662347,
+              "name": "Charli XCX"
+            }
+          ],
+          "title": "Magic Metal Montana"
+        },
+        "600000001000096": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000096.lrc?v=1794954954"
+          },
+          "artists": [
+            {
+              "id": 662347,
+              "name": "Charli XCX"
+            }
+          ],
+          "title": "No One Lasts Forever featuring David Cronenberg"
         },
         "60441406": {
           "__fckCensor": {
@@ -5585,6 +5762,50 @@
             {
               "durationMs": 191922,
               "id": 600000001000085
+            },
+            {
+              "durationMs": 123971,
+              "id": 600000001000086
+            },
+            {
+              "durationMs": 167706,
+              "id": 600000001000087
+            },
+            {
+              "durationMs": 207804,
+              "id": 600000001000088
+            },
+            {
+              "durationMs": 151484,
+              "id": 600000001000089
+            },
+            {
+              "durationMs": 124082,
+              "id": 600000001000090
+            },
+            {
+              "durationMs": 131500,
+              "id": 600000001000091
+            },
+            {
+              "durationMs": 137352,
+              "id": 600000001000092
+            },
+            {
+              "durationMs": 180023,
+              "id": 600000001000093
+            },
+            {
+              "durationMs": 157074,
+              "id": 600000001000094
+            },
+            {
+              "durationMs": 150674,
+              "id": 600000001000095
+            },
+            {
+              "durationMs": 342674,
+              "id": 600000001000096
             }
           ],
           "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_11/refs/heads/main/tracks/%%"
