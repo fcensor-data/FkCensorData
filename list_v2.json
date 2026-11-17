@@ -1724,6 +1724,11 @@
           ],
           "title": "Прыжок в прошлое"
         },
+        "59891179": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/59891179.txt?v=1794958588"
+          }
+        },
         "59933963": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/59933963.lrc?v=1794846703"
@@ -5410,6 +5415,10 @@
             {
               "durationMs": 152591,
               "id": 59891166
+            },
+            {
+              "durationMs": 134409,
+              "id": 59891179
             },
             {
               "durationMs": 141535,
