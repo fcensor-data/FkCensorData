@@ -515,6 +515,24 @@
             ]
           ]
         },
+        "2000000011": {
+          "artists": [
+            {
+              "id": 160970,
+              "name": "Noize MC"
+            }
+          ],
+          "coverUri": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000011.png",
+          "releaseDate": "2026-05-07T00:00:00+03:00",
+          "title": "Спящая красавица",
+          "volumes": [
+            [
+              {
+                "id": "600000001000092"
+              }
+            ]
+          ]
+        },
         "24720439": {
           "artists": [
             {
@@ -3141,6 +3159,18 @@
             }
           ],
           "title": "ЮМОРИСТ"
+        },
+        "600000001000092": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000092.lrc?v=1795021263"
+          },
+          "artists": [
+            {
+              "id": 160970,
+              "name": "Noize MC"
+            }
+          ],
+          "title": "Спящая красавица"
         },
         "60441406": {
           "__fckCensor": {
@@ -6349,6 +6379,10 @@
             {
               "durationMs": 258429,
               "id": 80585525
+            },
+            {
+              "durationMs": 230760,
+              "id": 600000001000092
             }
           ],
           "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_12/refs/heads/main/tracks/%%"
