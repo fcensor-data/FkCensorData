@@ -359,6 +359,36 @@
             ]
           ]
         },
+        "2000000009": {
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "coverUri": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg",
+          "releaseDate": "2015-10-30T00:00:00+03:00",
+          "title": "ПРОКЛЯТАЯ ПЕЧАТЬ",
+          "volumes": [
+            [
+              {
+                "id": "600000001000086"
+              },
+              {
+                "id": "600000001000087"
+              },
+              {
+                "id": "600000001000088"
+              },
+              {
+                "id": "600000001000089"
+              },
+              {
+                "id": "600000001000090"
+              }
+            ]
+          ]
+        },
         "24720439": {
           "artists": [
             {
@@ -2851,6 +2881,51 @@
             }
           ],
           "title": "Forever Young"
+        },
+        "600000001000086": {
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "title": "Шаринган"
+        },
+        "600000001000087": {
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "title": "Гоша рубчинский"
+        },
+        "600000001000088": {
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "title": "Rock Star"
+        },
+        "600000001000089": {
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "title": "Проклятая печать"
+        },
+        "600000001000090": {
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "title": "Бездельник"
         },
         "60441406": {
           "__fckCensor": {
@@ -5934,6 +6009,26 @@
             {
               "durationMs": 191922,
               "id": 600000001000085
+            },
+            {
+              "durationMs": 155402,
+              "id": 600000001000086
+            },
+            {
+              "durationMs": 168072,
+              "id": 600000001000087
+            },
+            {
+              "durationMs": 142968,
+              "id": 600000001000088
+            },
+            {
+              "durationMs": 169195,
+              "id": 600000001000089
+            },
+            {
+              "durationMs": 189440,
+              "id": 600000001000090
             }
           ],
           "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_11/refs/heads/main/tracks/%%"
