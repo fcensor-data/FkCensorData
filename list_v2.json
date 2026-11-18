@@ -2949,6 +2949,9 @@
           "title": "Бездельник"
         },
         "600000001000091": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000091.lrc?v=1794971408"
+          },
           "artists": [
             {
               "id": 5330511,
