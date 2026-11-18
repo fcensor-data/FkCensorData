@@ -813,6 +813,54 @@
               }
             ]
           ]
+        },
+        "6983656": {
+          "volumes": [
+            [
+              {
+                "id": "50526686"
+              },
+              {
+                "id": "50526688"
+              },
+              {
+                "id": "50526689"
+              },
+              {
+                "id": "50526690"
+              },
+              {
+                "id": "50526693"
+              },
+              {
+                "id": "50526694"
+              },
+              {
+                "id": "50526697"
+              },
+              {
+                "id": "50526699"
+              },
+              {
+                "id": "50526701"
+              },
+              {
+                "id": "50526702"
+              },
+              {
+                "id": "50526703"
+              },
+              {
+                "id": "50526704"
+              },
+              {
+                "id": "50526705"
+              },
+              {
+                "id": "50526706"
+              }
+            ]
+          ]
         }
       },
       "artists": {
@@ -1852,6 +1900,21 @@
         "50400506": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/50400506.lrc?v=1794434588"
+          }
+        },
+        "50526688": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/50526688.lrc?v=1795012568"
+          }
+        },
+        "50526689": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/50526689.lrc?v=1795012568"
+          }
+        },
+        "50526694": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/50526694.lrc?v=1795012568"
           }
         },
         "50526705": {
@@ -5551,6 +5614,18 @@
             {
               "durationMs": 107865,
               "id": 48592235
+            },
+            {
+              "durationMs": 210260,
+              "id": 50526688
+            },
+            {
+              "durationMs": 181029,
+              "id": 50526689
+            },
+            {
+              "durationMs": 159269,
+              "id": 50526694
             },
             {
               "durationMs": 255086,
