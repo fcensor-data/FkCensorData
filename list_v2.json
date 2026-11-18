@@ -389,6 +389,24 @@
             ]
           ]
         },
+        "2000000010": {
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "coverUri": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000010.png",
+          "releaseDate": "2019-02-12T00:00:00+03:00",
+          "title": "ЮМОРИСТ",
+          "volumes": [
+            [
+              {
+                "id": "600000001000091"
+              }
+            ]
+          ]
+        },
         "24720439": {
           "artists": [
             {
@@ -2928,6 +2946,15 @@
             }
           ],
           "title": "Бездельник"
+        },
+        "600000001000091": {
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "title": "ЮМОРИСТ"
         },
         "60441406": {
           "__fckCensor": {
@@ -6031,6 +6058,10 @@
             {
               "durationMs": 189440,
               "id": 600000001000090
+            },
+            {
+              "durationMs": 143412,
+              "id": 600000001000091
             }
           ],
           "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_11/refs/heads/main/tracks/%%"
