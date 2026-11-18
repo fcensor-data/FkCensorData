@@ -2,6 +2,114 @@
   "sources": [
     {
       "albums": {
+        "14776892": {
+          "volumes": [
+            [
+              {
+                "id": "80585489"
+              },
+              {
+                "id": "80585490"
+              },
+              {
+                "id": "80585492"
+              },
+              {
+                "id": "80585495"
+              },
+              {
+                "id": "80585498"
+              },
+              {
+                "id": "80585501"
+              },
+              {
+                "id": "80585502"
+              },
+              {
+                "id": "80585503"
+              },
+              {
+                "id": "80585504"
+              },
+              {
+                "id": "80585505"
+              },
+              {
+                "id": "80585507"
+              },
+              {
+                "id": "80585508"
+              },
+              {
+                "id": "80585509"
+              },
+              {
+                "id": "80585510"
+              },
+              {
+                "id": "80585512"
+              },
+              {
+                "id": "80585513"
+              },
+              {
+                "id": "80585517"
+              },
+              {
+                "id": "80585523"
+              },
+              {
+                "id": "80585525"
+              },
+              {
+                "id": "80585529"
+              },
+              {
+                "id": "80585532"
+              },
+              {
+                "id": "80585536"
+              },
+              {
+                "id": "80585538"
+              },
+              {
+                "id": "80585539"
+              },
+              {
+                "id": "80585540"
+              },
+              {
+                "id": "80585541"
+              },
+              {
+                "id": "80585542"
+              },
+              {
+                "id": "80585543"
+              },
+              {
+                "id": "80585544"
+              },
+              {
+                "id": "80585545"
+              },
+              {
+                "id": "80585546"
+              },
+              {
+                "id": "80585547"
+              },
+              {
+                "id": "80585548"
+              },
+              {
+                "id": "80585549"
+              }
+            ]
+          ]
+        },
         "2000000001": {
           "artists": [
             {
@@ -3117,6 +3225,31 @@
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/80585490.lrc?v=1795018912"
           }
         },
+        "80585502": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/80585502.lrc?v=1795021036"
+          }
+        },
+        "80585504": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/80585504.lrc?v=1795021036"
+          }
+        },
+        "80585510": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/80585510.lrc?v=1795021036"
+          }
+        },
+        "80585517": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/80585517.lrc?v=1795021036"
+          }
+        },
+        "80585525": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/80585525.lrc?v=1795021036"
+          }
+        },
         "81772338": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/81772338.lrc?v=1794846703"
@@ -6196,6 +6329,26 @@
             {
               "durationMs": 122018,
               "id": 80585490
+            },
+            {
+              "durationMs": 177894,
+              "id": 80585502
+            },
+            {
+              "durationMs": 288235,
+              "id": 80585504
+            },
+            {
+              "durationMs": 277002,
+              "id": 80585510
+            },
+            {
+              "durationMs": 245499,
+              "id": 80585517
+            },
+            {
+              "durationMs": 258429,
+              "id": 80585525
             }
           ],
           "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_12/refs/heads/main/tracks/%%"
