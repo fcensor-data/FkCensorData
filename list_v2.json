@@ -651,15 +651,7 @@
           ]
         },
         "43226379": {
-          "artists": [
-            {
-              "id": 662347,
-              "name": "Charli XCX"
-            }
-          ],
           "coverUri": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg",
-          "releaseDate": "2026-07-24T00:00:00+03:00",
-          "title": "Music, Fashion, Film",
           "volumes": [
             [
               {
@@ -1506,13 +1498,7 @@
         "154026493": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/154026493.lrc?v=1794961296"
-          },
-          "artists": [
-            {
-              "id": 662347,
-              "name": "Charli XCX"
-            }
-          ]
+          }
         },
         "155025088": {
           "__fckCensor": {
