@@ -1331,6 +1331,12 @@
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/119689461.txt?v=1794846703"
           }
         },
+        "119878078": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/119878078.lrc?v=1795041729"
+          },
+          "title": "Дал зазу"
+        },
         "119890654": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/119890654.lrc?v=1794846703"
@@ -6384,6 +6390,10 @@
             {
               "durationMs": 258429,
               "id": 80585525
+            },
+            {
+              "durationMs": 103158,
+              "id": 119878078
             },
             {
               "durationMs": 126171,
