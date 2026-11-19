@@ -1731,6 +1731,11 @@
           "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F5f6c2ea78da539e53539263e37ceeac4.417x412x1.jpg",
           "title": "Lin Ansty"
         },
+        "152973936": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/152973936.lrc?v=1795079076"
+          }
+        },
         "153345658": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/153345658.lrc?v=1795027273"
@@ -6424,6 +6429,10 @@
             {
               "durationMs": 97358,
               "id": 136602351
+            },
+            {
+              "durationMs": 168986,
+              "id": 152973936
             },
             {
               "durationMs": 126171,
