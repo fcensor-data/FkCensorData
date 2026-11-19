@@ -3337,6 +3337,11 @@
         "93401053": {
           "title": "Я ебал в рот"
         },
+        "93998025": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/93998025.lrc?v=1795046521"
+          }
+        },
         "96941368": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/96941368.lrc?v=1794846703"
@@ -6398,6 +6403,10 @@
             {
               "durationMs": 258429,
               "id": 80585525
+            },
+            {
+              "durationMs": 101330,
+              "id": 93998025
             },
             {
               "durationMs": 109740,
