@@ -533,6 +533,24 @@
             ]
           ]
         },
+        "2000000012": {
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "coverUri": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000012.jpg",
+          "releaseDate": "2017-06-07T00:00:00+03:00",
+          "title": "БУРГЕР",
+          "volumes": [
+            [
+              {
+                "id": "600000001000093"
+              }
+            ]
+          ]
+        },
         "24720439": {
           "artists": [
             {
@@ -3377,6 +3395,18 @@
             }
           ],
           "title": "Спящая красавица"
+        },
+        "600000001000093": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/600000001000093.lrc?v=1795090603"
+          },
+          "artists": [
+            {
+              "id": 5330511,
+              "name": "FACE"
+            }
+          ],
+          "title": "БУРГЕР"
         },
         "60441406": {
           "__fckCensor": {
@@ -6690,6 +6720,11 @@
             {
               "durationMs": 230760,
               "id": 600000001000092
+            },
+            {
+              "durationMs": 140131,
+              "id": 600000001000093,
+              "v": 1795090603
             }
           ],
           "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_12/refs/heads/main/tracks/%%"
