@@ -1164,6 +1164,33 @@
             ]
           ]
         },
+        "5795190": {
+          "volumes": [
+            [
+              {
+                "id": "43528290"
+              },
+              {
+                "id": "43528291"
+              },
+              {
+                "id": "43528292"
+              },
+              {
+                "id": "43528293"
+              },
+              {
+                "id": "43528294"
+              },
+              {
+                "id": "43528295"
+              },
+              {
+                "id": "43528296"
+              }
+            ]
+          ]
+        },
         "6958281": {
           "coverUri": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/6958281.jpg",
           "volumes": [
@@ -7017,6 +7044,10 @@
             {
               "durationMs": 203259,
               "id": 40498600
+            },
+            {
+              "durationMs": 167993,
+              "id": 43528294
             },
             {
               "durationMs": 222720,
