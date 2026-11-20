@@ -1539,6 +1539,12 @@
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/130159416.lrc?v=1794846703"
           }
         },
+        "131240175": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/131240175.txt?v=1795152686"
+          },
+          "title": "Я в таблетках"
+        },
         "131393815": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/131393815.lrc?v=1795089906"
@@ -6754,6 +6760,11 @@
             {
               "durationMs": 103158,
               "id": 119878078
+            },
+            {
+              "durationMs": 155089,
+              "id": 131240175,
+              "v": 1795152686
             },
             {
               "durationMs": 97358,

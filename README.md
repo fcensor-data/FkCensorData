@@ -1444,6 +1444,7 @@
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/14270105/6a44900f.a.38073205-1/200x200"> | [Еб... насос](https://music.yandex.ru/track/48591728) | [Ноггано](https://music.yandex.ru/artist/165162) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/15401259/f6ed2b0a.a.39682701-1/200x200"> | [Короче!](https://music.yandex.ru/track/48592481) | [Ноггано](https://music.yandex.ru/artist/165162) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/20322863/912968a2.a.24192650-1/200x200"> | [В сухом остатке](https://music.yandex.ru/track/109301175) | [Ноггано](https://music.yandex.ru/artist/165162), [Гио Пика](https://music.yandex.ru/artist/4167163), [Словетский](https://music.yandex.ru/artist/456499) |
+| <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/14082060/e5127ed5.a.33332766-1/200x200"> | [Я в таблетках](https://music.yandex.ru/track/131240175) | [нэнси холод](https://music.yandex.ru/artist/10475476) |
 |  | [Red lipstick + 2 lines](https://music.yandex.ru/track/132217704) | [Овсянкин](https://music.yandex.ru/artist/4622996) |
 |  | [Карфентанил](https://music.yandex.ru/track/37231301) | [Овсянкин](https://music.yandex.ru/artist/4622996) |
 |  | [От нуля до нуля](https://music.yandex.ru/track/71650516) | [Овсянкин](https://music.yandex.ru/artist/4622996) |
