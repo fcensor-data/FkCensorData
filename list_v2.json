@@ -1545,6 +1545,11 @@
           },
           "title": "Я в таблетках"
         },
+        "131240178": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/131240178.txt?v=1795152862"
+          }
+        },
         "131240184": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/131240184.lrc?v=1795152735"
@@ -6770,6 +6775,11 @@
               "durationMs": 155089,
               "id": 131240175,
               "v": 1795152686
+            },
+            {
+              "durationMs": 94328,
+              "id": 131240178,
+              "v": 1795152862
             },
             {
               "durationMs": 116219,
