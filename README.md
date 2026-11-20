@@ -1448,6 +1448,7 @@
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/14082060/e5127ed5.a.33332766-1/200x200"> | [Психопат](https://music.yandex.ru/track/131240178) | [нэнси холод](https://music.yandex.ru/artist/10475476) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/14082060/e5127ed5.a.33332766-1/200x200"> | [Я в таблетках](https://music.yandex.ru/track/131240175) | [нэнси холод](https://music.yandex.ru/artist/10475476) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/14082060/e5127ed5.a.33332766-1/200x200"> | [Я навечно одинок](https://music.yandex.ru/track/131240184) | [нэнси холод](https://music.yandex.ru/artist/10475476) |
+| <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/9707577/816b7f2f.a.26417451-1/200x200"> | [я умру так рано](https://music.yandex.ru/track/115057788) | [нэнси холод](https://music.yandex.ru/artist/10475476) |
 |  | [Red lipstick + 2 lines](https://music.yandex.ru/track/132217704) | [Овсянкин](https://music.yandex.ru/artist/4622996) |
 |  | [Карфентанил](https://music.yandex.ru/track/37231301) | [Овсянкин](https://music.yandex.ru/artist/4622996) |
 |  | [От нуля до нуля](https://music.yandex.ru/track/71650516) | [Овсянкин](https://music.yandex.ru/artist/4622996) |
