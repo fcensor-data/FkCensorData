@@ -4634,6 +4634,11 @@
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/61693505.lrc?v=1795089906"
           }
         },
+        "62804769": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/62804769.lrc?v=1795553855"
+          }
+        },
         "63104735": {
           "coverUri": "avatars.yandex.net/get-music-content/2358262/6e2a2403.a.10009371-1/%%"
         },
@@ -7913,6 +7918,11 @@
             {
               "durationMs": 176562,
               "id": 60051508
+            },
+            {
+              "durationMs": 139076,
+              "id": 62804769,
+              "v": 1795553855
             },
             {
               "durationMs": 117995,
