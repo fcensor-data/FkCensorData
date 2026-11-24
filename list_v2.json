@@ -2659,6 +2659,12 @@
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/36161915.lrc?v=1794846703"
           }
         },
+        "36271886": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/36271886.lrc?v=1795553682"
+          },
+          "title": "Мой героин"
+        },
         "36360202": {
           "durationMs": 186577
         },
@@ -7845,6 +7851,11 @@
             {
               "durationMs": 172307,
               "id": 35680966
+            },
+            {
+              "durationMs": 246678,
+              "id": 36271886,
+              "v": 1795553682
             },
             {
               "durationMs": 124029,
