@@ -1013,6 +1013,21 @@
           "releaseDate": "2019-01-30T00:00:00+03:00",
           "title": "Атана"
         },
+        "34326374": {
+          "volumes": [
+            [
+              {
+                "id": "87557146"
+              },
+              {
+                "id": "87557147"
+              },
+              {
+                "id": "600000001000145"
+              }
+            ]
+          ]
+        },
         "35861245": {
           "volumes": [
             [
@@ -4654,6 +4669,19 @@
           ],
           "title": "Спокойной ночи, Максим"
         },
+        "600000001000145": {
+          "artists": [
+            {
+              "id": 6928538,
+              "name": "МУККА"
+            },
+            {
+              "id": 8095900,
+              "name": "Три дня дождя"
+            }
+          ],
+          "title": "Малолетки"
+        },
         "60441406": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/60441406.lrc?v=1794846703"
@@ -8158,6 +8186,16 @@
               "v": 1795603990
             },
             {
+              "durationMs": 202292,
+              "id": 87557146,
+              "v": 1795866133
+            },
+            {
+              "durationMs": 160026,
+              "id": 87557147,
+              "v": 1795866133
+            },
+            {
               "durationMs": 152451,
               "id": 93993701,
               "v": 1795606195
@@ -8601,6 +8639,11 @@
               "durationMs": 153417,
               "id": 600000001000144,
               "v": 1795158657
+            },
+            {
+              "durationMs": 220160,
+              "id": 600000001000145,
+              "v": 1795866134
             }
           ],
           "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_12/refs/heads/main/tracks/%%"
