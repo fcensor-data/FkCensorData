@@ -3711,6 +3711,11 @@
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/43532695.lrc?v=1794846703"
           }
         },
+        "44270521": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/44270521.lrc?v=1795897509"
+          }
+        },
         "44803091": {
           "__fckCensor": {},
           "artists": [
@@ -10737,6 +10742,11 @@
               "durationMs": 186749,
               "id": 43502597,
               "v": 1795892779
+            },
+            {
+              "durationMs": 239782,
+              "id": 44270521,
+              "v": 1795897509
             },
             {
               "durationMs": 180238,
