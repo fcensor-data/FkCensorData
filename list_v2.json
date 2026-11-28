@@ -2968,6 +2968,11 @@
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/48591535.lrc?v=1795869185"
           }
         },
+        "48591743": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/48591743.lrc?v=1795871815"
+          }
+        },
         "48592075": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/48592075.lrc?v=1795606221"
@@ -8805,6 +8810,11 @@
               "durationMs": 265358,
               "id": 48591535,
               "v": 1795869185
+            },
+            {
+              "durationMs": 386880,
+              "id": 48591743,
+              "v": 1795871815
             },
             {
               "durationMs": 243856,
