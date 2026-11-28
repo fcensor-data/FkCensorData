@@ -4816,6 +4816,11 @@
         "63104735": {
           "coverUri": "avatars.yandex.net/get-music-content/2358262/6e2a2403.a.10009371-1/%%"
         },
+        "63607781": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/63607781.lrc?v=1795874961"
+          }
+        },
         "63607797": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/63607797.lrc?v=1794846703"
@@ -8860,6 +8865,11 @@
               "durationMs": 171708,
               "id": 61693504,
               "v": 1795869477
+            },
+            {
+              "durationMs": 231967,
+              "id": 63607781,
+              "v": 1795874961
             },
             {
               "durationMs": 112083,
