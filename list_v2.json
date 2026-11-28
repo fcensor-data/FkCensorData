@@ -2885,6 +2885,12 @@
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/42498658.lrc?v=1795867524"
           }
         },
+        "42601865": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/42601865.lrc?v=1795871433"
+          },
+          "title": "Метамфетамир"
+        },
         "43204417": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/43204417.lrc?v=1795552953"
@@ -8769,6 +8775,11 @@
               "durationMs": 254362,
               "id": 42498655,
               "v": 1795871271
+            },
+            {
+              "durationMs": 291924,
+              "id": 42601865,
+              "v": 1795871433
             },
             {
               "durationMs": 220009,
