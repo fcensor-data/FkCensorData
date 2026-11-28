@@ -752,6 +752,7 @@
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/13043189/a13e3397.a.35861245-1/200x200"> | [цена](https://music.yandex.ru/track/135266727) | [madk1d](https://music.yandex.ru/artist/13992820), [паранойя](https://music.yandex.ru/artist/17425572) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/13043189/a13e3397.a.35861245-1/200x200"> | [ты че обиделась](https://music.yandex.ru/track/136901411) | [madk1d](https://music.yandex.ru/artist/13992820), [тёмный принц](https://music.yandex.ru/artist/23300354) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/17730916/0e1c47a2.a.23247499-3/200x200"> | [Beggin](https://music.yandex.ru/track/106574623) | [Maladoy Prince](https://music.yandex.ru/artist/12914950) |
+| <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/17722696/dad78577.a.40751138-1/200x200"> | [Иномарка](https://music.yandex.ru/track/123135550) | [Maladoy Prince](https://music.yandex.ru/artist/12914950) |
 |  | [Сделал себя сам](https://music.yandex.ru/track/146446626) | [mapt0v](https://music.yandex.ru/artist/21249078) |
 |  | [Сделал себя сам (speed up)](https://music.yandex.ru/track/146446628) | [mapt0v](https://music.yandex.ru/artist/21249078) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/17655650/2dbef015.a.4998131-6/200x200"> | [Атлантида](https://music.yandex.ru/track/38883870) | [Markul](https://music.yandex.ru/artist/2938031) |
