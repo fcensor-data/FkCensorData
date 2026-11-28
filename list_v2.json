@@ -3005,6 +3005,11 @@
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/27898785.lrc?v=1795089906"
           }
         },
+        "29851848": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/29851848.lrc?v=1795884204"
+          }
+        },
         "30212997": {
           "title": "Трэп хата"
         },
@@ -9174,6 +9179,11 @@
               "durationMs": 182080,
               "id": 27323571,
               "v": 1795871838
+            },
+            {
+              "durationMs": 233590,
+              "id": 29851848,
+              "v": 1795884204
             },
             {
               "durationMs": 249800,
