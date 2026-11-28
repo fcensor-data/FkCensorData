@@ -5869,6 +5869,11 @@
         "91340238": {
           "coverUri": "avatars.yandex.net/get-music-content/4382102/bb010436.a.18170107-1/%%"
         },
+        "9285156": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/9285156.txt?v=1795896521"
+          }
+        },
         "93012495": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/93012495.lrc?v=1794846703"
@@ -10421,6 +10426,11 @@
         },
         {
           "trackIds": [
+            {
+              "durationMs": 217973,
+              "id": 9285156,
+              "v": 1795896521
+            },
             {
               "durationMs": 189908,
               "id": 27317261,
