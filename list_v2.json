@@ -2302,6 +2302,11 @@
         "138778164": {
           "title": "Отчим"
         },
+        "138786385": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/138786385.lrc?v=1795876888"
+          }
+        },
         "139307354": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/139307354.txt?v=1794846703"
@@ -8990,6 +8995,11 @@
               "durationMs": 161414,
               "id": 132704689,
               "v": 1795871779
+            },
+            {
+              "durationMs": 129010,
+              "id": 138786385,
+              "v": 1795876888
             },
             {
               "durationMs": 164676,
