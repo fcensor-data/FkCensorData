@@ -2615,6 +2615,11 @@
           },
           "title": "В этой траве"
         },
+        "123480352": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/123480352.lrc?v=1795894785"
+          }
+        },
         "125535652": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/125535652.lrc?v=1795089906"
@@ -10525,6 +10530,11 @@
               "durationMs": 140673,
               "id": 119923205,
               "v": 1795893587
+            },
+            {
+              "durationMs": 142028,
+              "id": 123480352,
+              "v": 1795894785
             },
             {
               "durationMs": 126224,
