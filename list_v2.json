@@ -2194,6 +2194,11 @@
           ],
           "title": "Red lipstick + 2 lines"
         },
+        "132704689": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/132704689.lrc?v=1795871779"
+          }
+        },
         "133174435": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/133174435.lrc?v=1795089906"
@@ -8870,6 +8875,11 @@
               "durationMs": 123669,
               "id": 125531182,
               "v": 1795868905
+            },
+            {
+              "durationMs": 161414,
+              "id": 132704689,
+              "v": 1795871779
             },
             {
               "durationMs": 157269,
