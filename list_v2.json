@@ -3379,6 +3379,12 @@
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/27898785.lrc?v=1795089906"
           }
         },
+        "28123190": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/28123190.lrc?v=1795896714"
+          },
+          "title": "Опиум для никого"
+        },
         "29851848": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/29851848.lrc?v=1795884204"
@@ -10445,6 +10451,11 @@
               "durationMs": 189908,
               "id": 27317261,
               "v": 1795894062
+            },
+            {
+              "durationMs": 236696,
+              "id": 28123190,
+              "v": 1795896714
             },
             {
               "durationMs": 196532,
