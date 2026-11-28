@@ -416,19 +416,31 @@
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000007.jpg"> | Vlone | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.jpg"> | WOOF | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000008.jpg"> | Yeezy Boost | [FACE](https://music.yandex.ru/artist/5330511) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000018.jpg"> | Антидепрессант | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000006.jpg"> | БЕДНОМУ | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg"> | Бездельник | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000012.jpg"> | БУРГЕР | [FACE](https://music.yandex.ru/artist/5330511) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000018.jpg"> | В комнатах тьмы | [FACE](https://music.yandex.ru/artist/5330511) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000018.jpg"> | Вместо мозга вода | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000005.jpg"> | ВОРОВАННЫЙ ВОЗДУХ | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000006.jpg"> | ВОСХИТИТЕЛЬНО | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000006.jpg"> | ВЫХОДИ | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg"> | Гоша рубчинский | [FACE](https://music.yandex.ru/artist/5330511) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000018.jpg"> | Даёт | [FACE](https://music.yandex.ru/artist/5330511) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000018.jpg"> | Два замка (Разговор с Лизой) | [FACE](https://music.yandex.ru/artist/5330511) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000018.jpg"> | Дик пик (Бонус-трек) | [FACE](https://music.yandex.ru/artist/5330511) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000018.jpg"> | Дружбы не бывает | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000006.jpg"> | ДРУЗЬЯ | [FACE](https://music.yandex.ru/artist/5330511) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000018.jpg"> | Если рэп не даст мне денег | [FACE](https://music.yandex.ru/artist/5330511) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000018.jpg"> | Жизнь | [FACE](https://music.yandex.ru/artist/5330511) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000018.jpg"> | Жизнь после смерти | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000007.jpg"> | Забирай всё что хочешь | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000005.jpg"> | ЗАТОЧКА | [FACE](https://music.yandex.ru/artist/5330511) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000018.jpg"> | Золото на моей шее | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000005.jpg"> | ИЗ ОКНА | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000006.jpg"> | КРЕПОСТНАЯ | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000006.jpg"> | ЛАБИРИНТ | [FACE](https://music.yandex.ru/artist/5330511) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000018.jpg"> | Лиза (Lisa) | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000006.jpg"> | МИСТЕР | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.jpg"> | МОЙ КАЛАШНИКОВ | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000005.jpg"> | МОЛИТВА | [FACE](https://music.yandex.ru/artist/5330511) |
@@ -443,13 +455,16 @@
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000006.jpg"> | СКРИЖАЛЬ | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000006.jpg"> | СНЕГОХОД | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.jpg"> | СПАСАТЕЛЬНЫЙ КРУГ | [FACE](https://music.yandex.ru/artist/5330511) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000018.jpg"> | Твоя тёплая постель | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000007.jpg"> | Техно шоу | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000007.jpg"> | Тысячи птиц | [FACE](https://music.yandex.ru/artist/5330511) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000018.jpg"> | Фестиваль красок | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000005.jpg"> | ЧЕТВЁРТЫЙ ВСАДНИК | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg"> | Шаринган | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.jpg"> | ЭТО FACE | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000010.png"> | ЮМОРИСТ | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000007.jpg"> | Я бы умер | [FACE](https://music.yandex.ru/artist/5330511) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000018.jpg"> | Я нормальный | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/10126140/27ef2e2c.a.32252131-1/200x200"> | [ATL Flow](https://music.yandex.ru/track/128507538) | [FENDIGLOCK](https://music.yandex.ru/artist/8317666) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/10126140/27ef2e2c.a.32252131-1/200x200"> | [Верят](https://music.yandex.ru/track/128507529) | [FENDIGLOCK](https://music.yandex.ru/artist/8317666) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/8096180/77700cfe.a.25129938-1/200x200"> | [Допинг](https://music.yandex.ru/track/112047077) | [FENDIGLOCK](https://music.yandex.ru/artist/8317666) |
@@ -2066,6 +2081,7 @@
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000009.jpg"> | [Music, Fashion, Film](https://music.yandex.ru/album/43226379) | [Charli XCX](https://music.yandex.ru/artist/662347) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.png"> | [Еби меня, малышка](https://music.yandex.ru/album/24720439) | [CUPSIZE](https://music.yandex.ru/artist/10946087) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000006.jpg"> | [12](https://music.yandex.ru/album/2000000006) | [FACE](https://music.yandex.ru/artist/5330511) |
+| <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000018.jpg"> | [Hate Love](https://music.yandex.ru/album/2000000018) | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000007.jpg"> | [REVENGE](https://music.yandex.ru/album/2000000007) | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000004.jpg"> | [SLIME](https://music.yandex.ru/album/2000000004) | [FACE](https://music.yandex.ru/artist/5330511) |
 | <img width="64" height="64" src="https://raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000008.jpg"> | [VLONE](https://music.yandex.ru/album/2000000008) | [FACE](https://music.yandex.ru/artist/5330511) |
