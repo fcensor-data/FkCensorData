@@ -9,6 +9,7 @@
 
 | | Название | Исполнители |
 |:-:|---|---|
+|  | Кристаллические лярвы |  |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/18132539/81e8cd91.a.41655997-2/200x200"> | [С\*кси Брюнетка](https://music.yandex.ru/track/137804024) | [!nnoluvv](https://music.yandex.ru/artist/23210208) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/20305588/35e62b93.a.27584063-2/200x200"> | [$Ieg Kla$](https://music.yandex.ru/track/51998064) | [1.Kla$](https://music.yandex.ru/artist/4471427) |
 | <img width="64" height="64" src="https://avatars.yandex.net/get-music-content/21498071/c4beaf6f.a.34406871-2/200x200"> | [Я тебя никому не отдам (Gipsydance)](https://music.yandex.ru/track/114343051) | [1.Kla$](https://music.yandex.ru/artist/4471427) |
