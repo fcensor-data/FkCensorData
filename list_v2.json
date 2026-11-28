@@ -2786,6 +2786,9 @@
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/136901411.lrc?v=1794790978"
           }
         },
+        "136947783": {
+          "title": "Кокаин"
+        },
         "137300017": {
           "title": "так похуй"
         },
@@ -10466,7 +10469,7 @@
             {
               "durationMs": 124135,
               "id": 136947783,
-              "v": 1795894023
+              "v": 1795894113
             },
             {
               "durationMs": 152372,
