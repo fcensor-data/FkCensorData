@@ -2988,6 +2988,11 @@
           "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F25983f6d40ce12c14761c03208ec176e.1000x1000x1.png",
           "title": "Тебе стыдно"
         },
+        "38180456": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/38180456.lrc?v=1795879910"
+          }
+        },
         "38479099": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/38479099.lrc?v=1794846703"
@@ -9014,6 +9019,11 @@
               "durationMs": 249275,
               "id": 32989784,
               "v": 1795872548
+            },
+            {
+              "durationMs": 220062,
+              "id": 38180456,
+              "v": 1795879910
             },
             {
               "durationMs": 142269,
