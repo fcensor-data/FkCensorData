@@ -2993,6 +2993,12 @@
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/38180456.lrc?v=1795879910"
           }
         },
+        "38180459": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/38180459.lrc?v=1795880006"
+          },
+          "title": "Крэк-1"
+        },
         "38479099": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/38479099.lrc?v=1794846703"
@@ -9024,6 +9030,11 @@
               "durationMs": 220062,
               "id": 38180456,
               "v": 1795879910
+            },
+            {
+              "durationMs": 130958,
+              "id": 38180459,
+              "v": 1795880006
             },
             {
               "durationMs": 142269,
