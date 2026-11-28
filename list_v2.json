@@ -1773,6 +1773,9 @@
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/105382847.lrc?v=1794846703"
           }
         },
+        "105382848": {
+          "title": "БАБАРА"
+        },
         "105929447": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/105929447.lrc?v=1795870003"
@@ -9121,6 +9124,11 @@
               "durationMs": 173035,
               "id": 97150037,
               "v": 1795874591
+            },
+            {
+              "durationMs": 115008,
+              "id": 105382848,
+              "v": 1795879417
             },
             {
               "durationMs": 137694,
