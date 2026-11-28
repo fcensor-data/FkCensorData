@@ -1887,6 +1887,11 @@
           ],
           "title": "мне похуй"
         },
+        "111001125": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/111001125.lrc?v=1795875813"
+          }
+        },
         "111553065": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/111553065.lrc?v=1794866454"
@@ -8925,6 +8930,11 @@
               "durationMs": 252238,
               "id": 110890114,
               "v": 1795871666
+            },
+            {
+              "durationMs": 157597,
+              "id": 111001125,
+              "v": 1795875813
             },
             {
               "durationMs": 106736,
