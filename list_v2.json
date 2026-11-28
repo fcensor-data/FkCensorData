@@ -947,6 +947,24 @@
             ]
           ]
         },
+        "2000000017": {
+          "artists": [
+            {
+              "id": 3095130,
+              "name": "Хаски"
+            }
+          ],
+          "coverUri": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/covers/2000000017.jpg",
+          "releaseDate": "2018-04-18T00:00:00+03:00",
+          "title": "Евангелие от собаки",
+          "volumes": [
+            [
+              {
+                "id": "600000001000150"
+              }
+            ]
+          ]
+        },
         "23211206": {
           "volumes": [
             [
@@ -5625,6 +5643,15 @@
             }
           ],
           "title": "Кристаллические лярвы"
+        },
+        "600000001000150": {
+          "artists": [
+            {
+              "id": 3095130,
+              "name": "Хаски"
+            }
+          ],
+          "title": "Иуда"
         },
         "60441406": {
           "__fckCensor": {
@@ -10851,6 +10878,11 @@
               "durationMs": 223295,
               "id": 600000001000149,
               "v": 1795890977
+            },
+            {
+              "durationMs": 135764,
+              "id": 600000001000150,
+              "v": 1795897017
             }
           ],
           "urlTemplate": "raw.githubusercontent.com/fcensor-data/FkCensorData_14/refs/heads/main/tracks/%%"
