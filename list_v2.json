@@ -3551,6 +3551,11 @@
           "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F070a1a7e9d02eca091a6fbd68134fc72.1000x1000x1.png",
           "title": "Тебя прёт габба"
         },
+        "40287273": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/40287273.lrc?v=1795895491"
+          }
+        },
         "40498606": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/40498606.lrc?v=1795089906"
@@ -10410,6 +10415,11 @@
               "durationMs": 229721,
               "id": 35699152,
               "v": 1795895365
+            },
+            {
+              "durationMs": 243778,
+              "id": 40287273,
+              "v": 1795895491
             },
             {
               "durationMs": 137987,
