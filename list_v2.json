@@ -5796,6 +5796,11 @@
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/97277432.lrc?v=1794846703"
           }
+        },
+        "97596694": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/97596694.lrc?v=1795894650"
+          }
         }
       },
       "tracksStorages": [
@@ -10365,6 +10370,11 @@
               "durationMs": 178855,
               "id": 95493809,
               "v": 1795893782
+            },
+            {
+              "durationMs": 116689,
+              "id": 97596694,
+              "v": 1795894650
             },
             {
               "durationMs": 172333,
