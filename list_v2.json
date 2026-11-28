@@ -3852,6 +3852,11 @@
           "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F187fa0c07091a8eb9b6a3fd8e33f28c1.1000x1000x1.png",
           "title": "АНАНАСОВАЯ GIRL"
         },
+        "59334220": {
+          "__fckCensor": {
+            "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/59334220.lrc?v=1795895874"
+          }
+        },
         "59357625": {
           "__fckCensor": {
             "lyrics": "raw.githubusercontent.com/fcensor-data/FkCensorData/refs/heads/main/lyrics/59357625.lrc?v=1794846703"
@@ -10460,6 +10465,11 @@
               "durationMs": 228496,
               "id": 50571451,
               "v": 1795895080
+            },
+            {
+              "durationMs": 221449,
+              "id": 59334220,
+              "v": 1795895874
             },
             {
               "durationMs": 172722,
